@@ -27,8 +27,8 @@ window.STORE_PREFIX = "nur405";   // CHANGE per course (e.g. "nur405") so two st
 
 const SITE = {
   /* ---- EDIT THESE TWO for your course ---- */
-  brand: "NUR405",                    // big text, top-left of the nav bar
-  course: "Med Surg II Study Guide",            // small text under it
+  brand: "NUR405 Med Surg II",        // big text, top-left of the nav bar
+  course: "Study Guide",              // small text under it
 
   home: { id: "home", title: "Home", file: "index.html" },
 
