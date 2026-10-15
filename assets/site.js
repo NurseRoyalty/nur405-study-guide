@@ -58,6 +58,18 @@ const SITE = {
       ]
     },
     {
+      label: "Med Surg I Review",
+      items: [
+        { id: "medsurg1-week1-respiratory", num: "1", title: "Week 1: Respiratory", file: "medsurg1-week1-respiratory.html" },
+        { id: "medsurg1-week2-hematology", num: "2", title: "Week 2: Hematology", file: "medsurg1-week2-hematology.html" },
+        { id: "medsurg1-week3-periop-fluids-electrolytes", num: "3", title: "Week 3: Periop, Fluids & Electrolytes", file: "medsurg1-week3-periop-fluids-electrolytes.html" },
+        { id: "medsurg1-week4-renal-urinary", num: "4", title: "Week 4: Renal & Urinary", file: "medsurg1-week4-renal-urinary.html" },
+        { id: "medsurg1-week5-integumentary-hiv-burns", num: "5", title: "Week 5: HIV, Skin, Wounds & Burns", file: "medsurg1-week5-integumentary-hiv-burns.html" },
+        { id: "medsurg1-week6-gi", num: "6", title: "Week 6: Gastrointestinal", file: "medsurg1-week6-gi.html" },
+        { id: "medsurg1-week7-cancer-hepatobiliary", num: "7", title: "Week 7: Cancer & Hepatobiliary", file: "medsurg1-week7-cancer-hepatobiliary.html" },
+      ]
+    },
+    {
       label: "Exam Prep",
       items: [
         { id: "must-know",       num: "1", title: "Must Know Quick Reference", file: "must-know.html" },
