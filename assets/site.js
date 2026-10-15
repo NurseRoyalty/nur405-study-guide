@@ -79,6 +79,12 @@ const SITE = {
         { id: "lecture-review-template", num: "4", title: "Lecture Review Template", file: "lecture-review-template.html" },
       ]
     },
+    {
+      label: "Jeopardy Games",
+      items: [
+        { id: "exam1-jeopardy", num: "1", title: "Exam 1 Jeopardy — 3 Player Game", file: "exam1-jeopardy.html" },
+      ]
+    },
     /* ---- ADD WHEN YOU BUILD THEM: the Jeopardy group ----
     {
       label: "Jeopardy Games",
