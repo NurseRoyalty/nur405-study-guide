@@ -67,6 +67,7 @@ const SITE = {
         { id: "medsurg1-week5-integumentary-hiv-burns", num: "5", title: "Week 5: HIV, Skin, Wounds & Burns", file: "medsurg1-week5-integumentary-hiv-burns.html" },
         { id: "medsurg1-week6-gi", num: "6", title: "Week 6: Gastrointestinal", file: "medsurg1-week6-gi.html" },
         { id: "medsurg1-week7-cancer-hepatobiliary", num: "7", title: "Week 7: Cancer & Hepatobiliary", file: "medsurg1-week7-cancer-hepatobiliary.html" },
+        { id: "medsurg1-comprehensive-study-guide", num: "8", title: "Comprehensive Study Guide (All 7 Weeks)", file: "medsurg1-comprehensive-study-guide.html" },
       ]
     },
     {
