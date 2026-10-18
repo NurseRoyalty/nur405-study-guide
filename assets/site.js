@@ -58,6 +58,16 @@ const SITE = {
       ]
     },
     {
+      label: "Week 2",
+      items: [
+        { id: "week2-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week2-comprehensive-study-guide.html" },
+        { id: "week2-eye-disorders", num: "2", title: "Eye Disorders", file: "week2-eye-disorders.html" },
+        { id: "week2-prostate", num: "3", title: "Prostate &amp; BPH", file: "week2-prostate.html" },
+        { id: "week2-stds", num: "4", title: "STDs", file: "week2-stds.html" },
+        { id: "week2-big-picture-overview", num: "5", title: "Big Picture Overview", file: "week2-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Med Surg I Review",
       items: [
         { id: "medsurg1-week1-respiratory", num: "1", title: "Week 1: Respiratory", file: "medsurg1-week1-respiratory.html" },
