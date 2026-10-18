@@ -815,6 +815,448 @@ window.QUIZ_BANK = {
       }
     },
     {
+      "id": "week2-eye-disorders",
+      "label": "Eye Disorders",
+      "week": 2,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A 72-year-old client with cataracts has a new glasses prescription, reads with extra light, and now drives only in the daytime because of glare. At today's visit, which finding most supports moving ahead with cataract surgery now?",
+            "options": [
+              "The client reads comfortably with the extra light and the new glasses.",
+              "Tonometry shows the clouded lens is now raising the intraocular pressure.",
+              "The client notices more glare at night and has stopped driving after dark.",
+              "The client has diabetes, and the retina is still easy to see on exam."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Surgery is chosen when the adaptive measures stop working and safety is affected, when the lens is raising the IOP (which can cause blindness and leads to glaucoma), or when the cataract blocks the view of the retina for diabetic retinopathy exams. A lens raising the IOP is one of those reasons. Incorrect: Reading comfortably and limiting driving to daytime show the watch-and-adapt measures are still working. Diabetes is a reason for surgery only when the cataract blocks the retina view; here the retina is still easy to see.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client scheduled for cataract surgery has orders for mydriatic, cycloplegic and anti-inflammatory drops before the procedure. The history shows closed-angle glaucoma. What should the nurse do?",
+            "options": [
+              "Give all three drops as ordered and dim the room lights for photophobia.",
+              "Give the mydriatic first so the pupil is dilated before the cycloplegic.",
+              "Hold the anti-inflammatory drop, since it raises intraocular pressure.",
+              "Hold the mydriatic drop and clarify the order with the provider first."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Mydriatic (dilating) drops are never given in closed-angle glaucoma because they raise the IOP further, and the pre-op history matters for exactly this reason, so the nurse holds it and clarifies. Incorrect: Dimming the lights for photophobia is right for a client who can receive the mydriatic, but it does not address the contraindication. The order of the drops is not the issue. The anti-inflammatory drop is not the one that raises IOP; dilation is.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The day after cataract surgery, a client says, \"Everything is still blurry, so I think it didn't work. At least I can pick up my grandson and tie my shoes now.\" What is the nurse's best response?",
+            "options": [
+              "Vision can take time to improve, and for now avoid bending at the waist and lifting.",
+              "Blurry vision the next day means the new lens failed, so I will call the surgeon now.",
+              "Your vision should be clear by now, so take the shield off to see if it gets better.",
+              "Lifting is fine once your vision clears, and the shield only protects from infection."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Vision may not improve right away after cataract surgery, and teaching this keeps the patient from panicking. After surgery the patient avoids anything that raises IOP, including bending at the waist, stooping, lifting and coughing. Incorrect: Blurry vision the next day is expected, not a sign of failure. The shield stays on until the checkup (and sometimes at night after that). Lifting is restricted because it raises IOP, not because of how well the patient sees.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients call the eye clinic. Client A has sudden floaters and flashing lights, followed by a curtain coming over part of the vision, with no pain. Client B has central vision that has slowly worsened over several years, with the side vision intact. Which plan is correct?",
+            "options": [
+              "See client B first, since losing central vision means wet AMD and coming blindness.",
+              "See client A first, since painless symptoms point to open-angle glaucoma worsening.",
+              "See client A first, since the cues point to retinal detachment, where time matters.",
+              "See client B first, since dry AMD needs urgent laser before the side vision is lost."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Sudden floaters or flashing lights followed by a curtain over the field of vision are the cues of retinal detachment, which is painless and urgent: time is of the essence. Incorrect: Client B's slow, painless central loss with the periphery intact fits dry AMD, which is insidious over many years and has no proven effective treatment, so it is not the emergency. Open-angle glaucoma takes peripheral vision and is usually asymptomatic; it does not cause floaters and a curtain.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse reviews discharge teaching with a client after a scleral buckle repair. Which client statement shows a need for more teaching?",
+            "options": [
+              "I will keep the head of my bed raised, even when I sleep at night.",
+              "I can get back to my usual morning run in about one week from today.",
+              "I will take something to keep from getting constipated and straining.",
+              "I will ask my daughter to pick things up off the floor for me for now."
+            ],
+            "answer": 1,
+            "rationale": "Correct: After a scleral buckle there is no vigorous exercise for 3 to 4 weeks, so running in a week needs correcting. Incorrect: The head of the bed is elevated at all times to keep IOP down; preventing constipation avoids straining; and having someone else pick things up avoids bending at the waist. All three are correct.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "After a pneumatic retinopexy, a client asks to lie flat on the back to watch television instead of keeping the position the provider ordered. What should the nurse explain?",
+            "options": [
+              "The ordered position lets gravity press the gas bubble against the detached area.",
+              "Lying on the back is fine, since the gas bubble seals the retina within a few hours.",
+              "Lying on the back is fine as long as the head of the bed stays up at all times.",
+              "Any position is fine once the eye shield is on, since the shield holds the retina."
+            ],
+            "answer": 0,
+            "rationale": "Correct: In pneumatic retinopexy a gas bubble is injected into the vitreous, and the patient is positioned (often head down and to one side) so gravity presses the bubble on the detached area, for days to weeks, so the position is the treatment. Incorrect: The bubble does not seal the retina in hours. Keeping the head of the bed raised at all times is the scleral buckle teaching, not a substitute for retinopexy positioning. A shield does not hold the retina in place.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 68-year-old client with dry age-related macular degeneration smokes a pack a day and asks what can be done to keep the disease from getting worse. Which response is accurate?",
+            "options": [
+              "Laser trabeculoplasty can open the drainage and bring the central vision back.",
+              "Miotic drops used several times a day keep the macular cells from shrinking.",
+              "Strict blood pressure control can reverse the changes in the macular cells.",
+              "Stopping smoking, plus antioxidants, vitamins and zinc, may help slow it down."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Not much can be done for AMD, but antioxidants, vitamins and zinc may slow progression, and smoking cessation is strongly encouraged because smoking increases the risk. Incorrect: Argon laser trabeculoplasty and miotic drops are glaucoma treatments that act on aqueous humor drainage, not on macular atrophy. Controlling blood pressure is how retinopathy is prevented; nothing on the page says it reverses AMD.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client arrives in the ED with a painful red eye, nausea and vomiting, and a very high intraocular pressure. The provider orders miotic drops, a topical beta blocker, an oral carbonic anhydrase inhibitor and an antiemetic. Which plan is best?",
+            "options": [
+              "Darken the room first to ease the light sensitivity, then instill the miotic drops.",
+              "Hold the antiemetic until the pressure falls, since vomiting is expected with this.",
+              "Instill the miotic drops, then darken the room and treat the nausea right away.",
+              "Prepare the client for argon laser trabeculoplasty as the first treatment now."
+            ],
+            "answer": 2,
+            "rationale": "Correct: This is acute angle-closure glaucoma, an ocular emergency. The miotic is given before darkening the room, because a dark room dilates the pupil, the opposite of what you want, and pain and nausea are treated aggressively because pain, nausea and vomiting raise IOP. Incorrect: Darkening the room first dilates the pupil before the miotic can constrict it. Holding the antiemetic lets vomiting keep raising the IOP. Argon laser trabeculoplasty is for open-angle glaucoma; closed angle gets an iridotomy or iridectomy once the IOP is stable.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with open-angle glaucoma has drops prescribed several times a day. At follow-up the intraocular pressure is higher than last time. The client says, \"My eyes feel completely fine, so I just use the drops when I remember.\" How should the nurse interpret this?",
+            "options": [
+              "Eyes that feel fine show the angle has opened, so the drops can be tapered off.",
+              "The disease is usually painless, so feeling fine does not mean it is controlled.",
+              "A painless eye with rising pressure means it has turned into acute angle closure.",
+              "A higher pressure on drops means an iridotomy is needed right away as an emergency."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Open-angle glaucoma is usually asymptomatic and painless, and the big teaching point is adherence: because there are no symptoms, patients forget or don't see the point of drops needed several times a day. The rising IOP fits missed doses. Incorrect: Feeling fine says nothing about the angle. Acute angle closure presents as a painful red eye, not a painless one. Open-angle glaucoma is not an emergency (time is not of the essence); iridotomy is the closed-angle procedure.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 45-year-old client whose father has glaucoma has a tonometry reading of 26 mmHg and no eye pain. Which statements by the nurse are accurate? Select all that apply.",
+            "options": [
+              "Your eye pressure is higher than the normal range, which is 10 to 21 mmHg.",
+              "A gonioscopy may be done to tell whether the angle is open or closed.",
+              "Since you have no pain, this pressure reading is not a real concern.",
+              "With your family history, checks once or twice a year are advised as you age.",
+              "A slit lamp exam will confirm whether the angle has closed for certain.",
+              "The provider may look for the optic disc cup getting larger, a glaucoma sign."
+            ],
+            "answers": [
+              0,
+              1,
+              3,
+              5
+            ],
+            "rationale": "Correct: Normal IOP is 10 to 21 mmHg, so 26 is high. Gonioscopy is done when high IOP is found, to tell open-angle from closed-angle glaucoma. With a family history of glaucoma, IOP is checked once or twice a year as the patient ages. In glaucoma the optic cup gets larger (optic disc cupping), which the provider looks for with ophthalmoscopy. Incorrect: Glaucoma is a silent disease, and open-angle glaucoma is usually painless, so no pain is not reassuring. The slit lamp magnifies the anterior eye, but gonioscopy is the gold standard for diagnosing angle closure.",
+            "topic": "Eye Disorders",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week2-prostate",
+      "label": "Prostate &amp; BPH",
+      "week": 2,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A 58-year-old client's digital rectal exam shows a symmetrically enlarged, firm, smooth prostate, and his PSA is elevated. He says, \"So I have prostate cancer.\" What is the nurse's best response?",
+            "options": [
+              "The smooth, even gland on exam rules cancer out, so no more testing is needed.",
+              "PSA is made only by cancer cells, so we need to start treatment early on.",
+              "PSA can rise with BPH or an inflamed prostate, so it doesn't confirm cancer.",
+              "An enlarged prostate like yours often turns into cancer, so we treat it now."
+            ],
+            "answer": 2,
+            "rationale": "Correct: PSA is made solely by prostate cells, so it is highly specific to the prostate but not specific to prostate cancer; BPH or an inflamed prostate also change it. His exam findings (symmetric, firm, smooth) fit BPH. Incorrect: The exam does not rule anything out on its own; when both the DRE and PSA are abnormal, a TRUS helps tell BPH from cancer. PSA is made by prostate cells, not only cancer cells. BPH does not predispose to prostate cancer.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with an abnormal digital rectal exam and an abnormal PSA is scheduled for a transrectal ultrasound (TRUS). He asks why he needs yet another test. Which explanation is accurate?",
+            "options": [
+              "It helps tell BPH from cancer; only TRUS with a biopsy can diagnose cancer.",
+              "It checks the kidneys for urine backing up from the large prostate gland.",
+              "It replaces the PSA, which is not specific to the prostate gland at all.",
+              "It looks for a urinary tract infection that could be raising the PSA level."
+            ],
+            "answer": 0,
+            "rationale": "Correct: TRUS goes through the rectum and helps tell BPH from cancer when both the DRE and PSA are abnormal, and TRUS with biopsy is the only definitive way to diagnose prostate cancer. Incorrect: Checking for hydronephrosis is the job of the urinary diagnostics and serum creatinine. The PSA is highly specific to the prostate (just not to cancer), and TRUS does not replace it. A urinalysis with culture and sensitivity is the test for a UTI.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Three men ask the nurse about PSA screening. Based on the American Cancer Society guidance in the lecture, which plan is appropriate?",
+            "options": [
+              "Start routine screening for a 77-year-old at average risk, since risk rises with age.",
+              "Start screening a 47-year-old at average risk now, so any cancer is caught early.",
+              "Have a 46-year-old African American man wait until 50, like average-risk men.",
+              "Discuss screening risks and benefits now with a 46-year-old African American man."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Higher-risk men, including African Americans and those with a first-degree relative diagnosed before 65, discuss screening at 45, and the nurse makes sure the patient is informed of the risks and benefits first. Incorrect: Screening is not recommended over 75 because the harms outweigh the benefits. Average-risk men begin at 50, not 47. Making a higher-risk man wait until 50 ignores the earlier start for higher risk.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with BPH who gets up to urinate several times a night has a cold. He plans to take an over-the-counter decongestant and an antihistamine at bedtime so he can sleep. What should the nurse teach?",
+            "options": [
+              "Those are safe with BPH as long as he takes them early in the evening.",
+              "Those can tighten the prostate muscles and make it harder to pass urine.",
+              "Those relax the prostate, so they can be used in place of his finasteride.",
+              "Those are fine if he double voids before bed to empty the bladder fully."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Patients with BPH avoid decongestants and antihistamines because they tighten the prostate muscles so urine can't easily leave the bladder. Incorrect: Timing the dose does not change the effect. They do the opposite of relaxing the prostate, and they are not a substitute for prescribed medication. Double voiding is good BPH teaching, but it does not make these drugs safe.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with BPH reports getting up 5 or 6 times a night to urinate and says he always drinks a large glass of water right before bed \"to stay healthy.\" He also stops after his first stream, even when he still feels full. Which teaching addresses both problems?",
+            "options": [
+              "Drink more in the evening to flush the bladder, and void once quickly at night.",
+              "Take saw palmetto at night, since it is proven to shrink the prostate gland.",
+              "Limit fluids in the evening, and void, wait a moment, then try again to empty.",
+              "Hold all fluids after lunch, and push hard at the end of each void to empty."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Nocturia is often the first BPH symptom, and the teaching is to restrict evening fluids and to double void (void, wait a moment, then try again to empty the rest). Incorrect: More evening fluid worsens nocturia. Saw palmetto has no FDA evidence that it helps (it is fine only if the provider knows). Holding all fluids after lunch goes beyond the evening restriction taught, and straining is not the double-voiding technique.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is on continuous bladder irrigation after a TURP. His urine was light pink this morning. After his first walk in the hall, the urine in the tubing is darker with more clots. What should the nurse do first?",
+            "options": [
+              "Stop the irrigation, since more fluid could cause fluid volume excess.",
+              "Increase the irrigation rate until the color lightens and clots clear.",
+              "Slow the irrigation rate so the clots have more time to break apart.",
+              "Clamp the drainage tubing and report a hemorrhage to the provider."
+            ],
+            "answer": 1,
+            "rationale": "Correct: The nurse regulates the CBI rate by the urine color, aiming for continuous flow, light pink, with few clots. More clots or darker urine, for example after the first walk, means increase the rate. Incorrect: CBI only irrigates the bladder and never enters the intravascular space, so there is no risk of fluid volume excess. Slowing the rate is for urine that is already light pink. Clots are expected the first day or two; hemorrhage is suggested by a large amount of bright red blood, and clamping the drainage would stop the flow the CBI is meant to keep going.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Over an 8-hour shift, a client on continuous bladder irrigation after a TURP has 2,600 mL in the drainage bag, and 1,500 mL of irrigation was infused. The nurse is recording his urine output. Which entry is correct?",
+            "options": [
+              "1,100 mL of urine output for the shift",
+              "1,500 mL of urine output for the shift",
+              "2,600 mL of urine output for the shift",
+              "4,100 mL of urine output for the shift"
+            ],
+            "answer": 0,
+            "rationale": "Correct: True urine output is the total drained minus the irrigation infused: 2,600 minus 1,500 is 1,100 mL, the same method as the lecture's 400 minus 200 equals 200 example. Incorrect: 1,500 mL is the irrigation volume, not urine. 2,600 mL counts the irrigation as urine. 4,100 mL adds the two together.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is caring for two clients on the first day after a TURP. Client A's urine is light pink with a few small clots. Client B suddenly has a large amount of bright red blood in the tubing, and the color keeps getting worse for no clear reason. Which action is the priority?",
+            "options": [
+              "Notify the provider about client A, since clots mean the catheter is failing.",
+              "Slow client B's irrigation so the bleeding has time to stop and form a clot.",
+              "Increase client A's irrigation until every clot is cleared from the tubing.",
+              "Notify the provider about client B, since this may be a sign of hemorrhage."
+            ],
+            "answer": 3,
+            "rationale": "Correct: A large amount of bright red blood may mean hemorrhage, and if the color worsens for no apparent reason the nurse notifies the provider. Incorrect: Client A has the goal picture (light pink, few clots), and clots are expected the first day or two, so there is nothing to report or chase. Slowing client B's irrigation delays the needed report and works against keeping the urethra patent.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "One month after a radical prostatectomy, a client says, \"I'm still dribbling urine and I can't get an erection. Did the surgery go wrong?\" Which response by the nurse is accurate?",
+            "options": [
+              "Bladder control often returns over a couple of months, erections over a couple of years.",
+              "Dribbling a month after surgery means it failed, and a repeat surgery will be needed.",
+              "Erections often return over a couple of months, bladder control over a couple of years.",
+              "Both effects are permanent once the prostate is removed, so plan on using pads for life."
+            ],
+            "answer": 0,
+            "rationale": "Correct: The adverse outcomes of radical prostatectomy are erectile dysfunction, which gradually returns over a couple of years, and urinary incontinence, which gradually returns over a couple of months (but not always). Teaching that dribbling can happen is part of the nurse's role. Incorrect: Dribbling at one month is an expected outcome, not a failure. The swapped timeline reverses the two recoveries. Neither effect is described as permanent.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 66-year-old client with early-stage prostate cancer chooses watchful waiting. Which statements belong in the nurse's teaching? Select all that apply.",
+            "options": [
+              "You will have repeated rectal exams, and your PSA will be trended over time.",
+              "Many men live with prostate cancer and end up dying of other causes instead.",
+              "Watchful waiting means no more testing unless you start having symptoms.",
+              "Androgen deprivation therapy is one treatment the provider may discuss.",
+              "Your history of BPH raises the chance this prostate cancer will spread.",
+              "Radiation can be used only if you have surgery to remove the prostate first."
+            ],
+            "answers": [
+              0,
+              1,
+              3
+            ],
+            "rationale": "Correct: Early stage disease can be managed with watchful waiting with repeated DREs and trended PSAs. Most prostate cancer grows very slowly, and many men live and die with it, not from it. Androgen deprivation therapy is one of the listed treatments. Incorrect: Watchful waiting is active monitoring, not stopping all testing. BPH does not predispose to prostate cancer. Radiation is used alone or with surgery, so surgery is not required first.",
+            "topic": "Prostate &amp; BPH",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week2-stds",
+      "label": "STDs",
+      "week": 2,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A 22-year-old client comes to the clinic because her partner was just diagnosed with chlamydia. She has no discharge or pain and says, \"I feel fine, and I'm on the pill, so I should be covered.\" What is the nurse's best response?",
+            "options": [
+              "With no symptoms you are probably not infected, so testing can wait for now.",
+              "The pill lowers your risk, but add a condom only if you start to have symptoms.",
+              "Women usually notice chlamydia in a few days, so watch closely for discharge.",
+              "Chlamydia is often symptom-free, and the pill does not protect you from STIs."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Chlamydia usually has no symptoms (which is why it keeps spreading), and hormonal birth control and IUDs do not prevent STIs; the male condom is the best protection besides abstinence. Incorrect: No symptoms does not mean no infection, so she needs testing. The pill does not lower STI risk at all. Becoming symptomatic within a few days describes gonorrhea in men, not chlamydia in women.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client treated for chlamydia with azithromycin asks what he needs to do next. Which instruction is accurate?",
+            "options": [
+              "You can have sex again as soon as you have taken the first dose of the antibiotic.",
+              "Avoid sex for 7 days and until partners are treated, then get retested in 3 months.",
+              "Tell only the partners you have had in the past 90 days, then you can stop worrying.",
+              "You only need to come back for a recheck if the burning or the discharge returns."
+            ],
+            "answer": 1,
+            "rationale": "Correct: After treatment the patient abstains for 7 days and until all partners have been tested and treated (expedited partner therapy), contacts from the prior 60 days are notified, and the patient returns for screening 3 months after treatment to make sure it is eradicated. Incorrect: Sex right after the first dose ignores the 7-day abstinence. The 90-day partner window is the syphilis rule; chlamydia uses 60 days. Rescreening at 3 months is recommended whether or not symptoms come back.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A male client and a female client were both exposed to gonorrhea. Within a few days he develops painful urination and a purulent urethral discharge; she has no symptoms. Which client is more likely to develop complications, and why?",
+            "options": [
+              "The male, because symptoms within days point to a more aggressive infection.",
+              "The female, because gonorrhea in women does not respond to IM ceftriaxone.",
+              "The female, because being symptom-free often delays treatment, risking PID.",
+              "The male, because epididymitis always leaves men permanently infertile."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Men are usually symptomatic within a few days and get treated, so they have fewer complications. Women are usually asymptomatic or have minor symptoms that get overlooked, so they are more likely to develop complications such as inflamed Bartholin's glands and PID. Incorrect: Early symptoms lead to earlier treatment, not worse disease. Gonorrhea is treated with one-time IM ceftriaxone in both sexes. Epididymitis can cause infertility, but the page does not say always, and men have fewer complications overall.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A pregnant client diagnosed with gonorrhea has no symptoms. She asks whether treatment can wait until after the baby is born. What should the nurse explain?",
+            "options": [
+              "Gonorrhea can pass to the baby, who can then develop an eye infection.",
+              "Having no symptoms means the infection has cleared on its own already.",
+              "Treatment can wait, because the baby is protected until the delivery.",
+              "Only the strawberry-looking cervix it causes is a danger at delivery."
+            ],
+            "answer": 0,
+            "rationale": "Correct: In pregnancy, gonorrhea can be passed to the neonate, who can develop conjunctivitis, so it should be treated now. Incorrect: Women with gonorrhea are usually asymptomatic, so having no symptoms says nothing about clearing it. The baby is not protected; transmission to the neonate is the stated complication. A strawberry cervix is a sign of trichomoniasis, not gonorrhea.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A female client has a yellow-green, foul-smelling vaginal discharge and a red, inflamed cervix, and a test confirms trichomoniasis. She says her male partner has no symptoms. Which teaching is accurate?",
+            "options": [
+              "Your partner does not need treatment, since he has no symptoms.",
+              "This infection causes PID, so expect a long course of IV antibiotics.",
+              "A single dose of acyclovir clears it, so a retest is not needed later.",
+              "Many men have no symptoms, so avoid sex until you are both treated."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Three-fourths of trichomoniasis cases in men are asymptomatic, so a partner without symptoms may still be infected, and the patient abstains until 7 days post-treatment and until partners have been treated. Incorrect: No symptoms in a man does not mean no infection. Trichomoniasis is not related to PID, and it is treated with oral metronidazole for 7 days or a single dose of tinidazole. Acyclovir treats herpes, and because recurrence risk is high, retesting in 2 weeks to 3 months is recommended.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client just diagnosed with trichomoniasis asks, \"My friend became infertile from chlamydia. Will this do the same thing to me?\" Which response is accurate?",
+            "options": [
+              "Trich is not tied to PID, but untreated it can make HIV infection likelier.",
+              "Trich damages the fallopian tubes through PID, the same way chlamydia does.",
+              "Trich is caused by a virus, so it stays for life but will not harm fertility.",
+              "Trich only causes problems in men, so your own fertility is not at any risk."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Trichomoniasis is not related to PID, unlike chlamydia, where PID damages the fallopian tubes and causes infertility. Its complication is that untreated inflammation makes another STI, such as HIV, more likely. Incorrect: Linking it to PID confuses it with chlamydia. Trichomoniasis is caused by a protozoan parasite, not a virus, and it is curable. It is more common in women, not limited to men.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with genital herpes (HSV-2) says, \"I only need to use condoms when I have sores. The rest of the time I can't pass it on.\" How should the nurse respond?",
+            "options": [
+              "That's right, the virus can only spread when the blisters are visible.",
+              "Acyclovir cures it, so you need condoms only while you are taking it.",
+              "It can still spread through viral shedding when no sores are present.",
+              "HSV-2 only infects the mouth, so passing it genitally is not likely."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Herpes is most contagious with symptoms and the greatest risk is with active lesions, but asymptomatic viral shedding also transmits it; most infections are spread by someone unaware they are infected. Incorrect: Spread is not limited to visible blisters. Herpes is lifelong and incurable; acyclovir shortens outbreaks and suppresses attacks. HSV-2 is usually anogenital (HSV-1 is usually oral), though both types can infect both sites.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A college student with genital herpes has had two outbreaks during final exams this year and worries the infection is getting worse. What is the nurse's best response?",
+            "options": [
+              "A new outbreak means a new infection, so your partner must be retested now.",
+              "Stress and fatigue can trigger outbreaks, which tend to be milder over time.",
+              "Recurrent outbreaks are usually more severe than the first one you had.",
+              "The virus lives in the skin, so scrubbing the area well can stop new outbreaks."
+            ],
+            "answer": 1,
+            "rationale": "Correct: HSV establishes a permanent presence in the dorsal root ganglia and reactivates. Recurrences are triggered by stress, fatigue, illness and immunosuppression; they are usually less severe, heal faster, and become fewer over time. Incorrect: A recurrence is reactivation, not a new infection. Recurrences are milder than the primary episode, not more severe. The virus lives in the nerve ganglia, not the skin, so scrubbing does not prevent outbreaks.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client had several genital warts removed in the office last week. She says, \"Now that they're gone, I can't spread HPV to my partner anymore.\" How should the nurse respond?",
+            "options": [
+              "That's right, removing the warts ends the infection, so no follow-up is needed.",
+              "HPV spreads only through sexual fluids, so skin contact is safe for you now.",
+              "The HPV vaccine you get now will cure the virus that caused these warts.",
+              "Removing the warts does not clear the virus or keep it from being spread."
+            ],
+            "answer": 3,
+            "rationale": "Correct: The primary goal of treatment is to remove symptomatic warts, but removing them is not thought to decrease the spread of HPV, and the virus can persist even without warts. Incorrect: Removal does not end the infection, and long-term follow-up is part of care. HPV spreads through skin-to-skin contact. The vaccine prevents infection with the covered strains (90% of genital warts and 70 to 90% of cervical cancer strains); nothing says it cures an existing infection.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is diagnosed with primary syphilis after a chancre is found on exam. Which actions by the nurse are appropriate? Select all that apply.",
+            "options": [
+              "Explain that the client is not contagious until a rash appears.",
+              "Prepare to give penicillin G as the ordered treatment.",
+              "Arrange for HIV testing along with the syphilis follow-up.",
+              "Notify only the sexual partners from the past 60 days.",
+              "Explain that a positive VDRL needs a confirmatory test.",
+              "Teach that late-stage nerve and heart damage can be reversed."
+            ],
+            "answers": [
+              1,
+              2,
+              4
+            ],
+            "rationale": "Correct: Penicillin G treats all stages of syphilis. Clients should be tested for HIV (early chancres increase HIV transmission, and HIV testing is repeated at follow-up). Diagnosis is a blood screening test, typically the VDRL, followed by a confirmatory test. Incorrect: The primary stage, when the chancre appears, is highly infectious; the client does not wait for the rash of the secondary stage to be contagious. Partners from the past 90 days are notified for syphilis (60 days is the chlamydia and gonorrhea window). Late syphilis causes irreversible damage.",
+            "topic": "STDs",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
       "id": "medsurg1-week1-respiratory",
       "label": "Med Surg I Wk 1: Respiratory",
       "sets": {
@@ -1844,6 +2286,9 @@ window.QUIZ_BANK = {
     "Pericarditis",
     "Infective Endocarditis",
     "Valvular Heart Disease",
+    "Eye Disorders",
+    "Prostate &amp; BPH",
+    "STDs",
     "Med Surg I Wk 1: Respiratory",
     "Med Surg I Wk 2: Hematology",
     "Med Surg I Wk 3: Periop, Fluids &amp; Electrolytes",
