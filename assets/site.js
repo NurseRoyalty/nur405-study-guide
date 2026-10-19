@@ -80,6 +80,18 @@ const SITE = {
       ]
     },
     {
+      label: "Week 4",
+      items: [
+        { id: "week4-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week4-comprehensive-study-guide.html" },
+        { id: "week4-endocrine-labs-dx", num: "2", title: "Endocrine Labs &amp; Dx", file: "week4-endocrine-labs-dx.html" },
+        { id: "week4-adh-disorders", num: "3", title: "ADH Disorders", file: "week4-adh-disorders.html" },
+        { id: "week4-adrenal-disorders", num: "4", title: "Adrenal Disorders", file: "week4-adrenal-disorders.html" },
+        { id: "week4-thyroid-disorders", num: "5", title: "Thyroid Disorders", file: "week4-thyroid-disorders.html" },
+        { id: "week4-diabetes", num: "6", title: "DM: Patho, Pharm &amp; Nursing Care", file: "week4-diabetes.html" },
+        { id: "week4-big-picture-overview", num: "7", title: "Big Picture Overview", file: "week4-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Med Surg I Review",
       items: [
         { id: "medsurg1-week1-respiratory", num: "1", title: "Week 1: Respiratory", file: "medsurg1-week1-respiratory.html" },
