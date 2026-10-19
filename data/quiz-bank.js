@@ -1995,6 +1995,744 @@ window.QUIZ_BANK = {
       }
     },
     {
+      "id": "week4-endocrine-labs-dx",
+      "label": "Endocrine Labs &amp; Dx",
+      "week": 4,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client without diabetes is scheduled for major surgery and is very anxious. The morning blood glucose is higher than usual. The client asks why, since she hasn't eaten. Which explanation is accurate?",
+            "options": [
+              "Stress makes the pancreas stop secreting insulin until the stressor ends.",
+              "Stress releases ADH from the pituitary, and ADH raises the blood sugar.",
+              "Stress triggers CRF, then ACTH, then cortisol, which raises blood sugar.",
+              "Stress lowers the cortisol level, so the glucose builds up in the blood."
+            ],
+            "answer": 2,
+            "rationale": "Correct: This is the HPA axis. A stressor (such as major surgery) triggers the hypothalamus to release CRF, the anterior pituitary to secrete ACTH, and the adrenal cortex to release cortisol, which increases blood sugar to prepare for fight or flight. Incorrect: Nothing on the page says stress shuts off insulin. ADH regulates pure water, not glucose. Stress raises cortisol rather than lowering it.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with diabetes insipidus is urinating about 8 liters a day. A student expects the client's potassium to fall, \"like a patient on Lasix.\" How should the nurse respond?",
+            "options": [
+              "Potassium shouldn't be affected, since ADH moves only pure water.",
+              "Severe hypokalemia is expected, the same as with high-dose Lasix.",
+              "Hyperkalemia is expected, since potassium concentrates as water leaves.",
+              "Potassium will fall at first, then rise as the urine volume slows."
+            ],
+            "answer": 0,
+            "rationale": "Correct: ADH is the regulator of pure water. Losing water because of too little ADH is not like diuresing with Lasix: the client loses pure water, not potassium, so the client won't become hypokalemic from it. The instructor warns this point trips students up. Incorrect: The Lasix comparison is exactly the misconception. Nothing on the page links DI to hyperkalemia or a rise and fall pattern.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's serum osmolality is high, so ADH is released and the kidney tubules reabsorb water. The serum osmolality returns to normal. What happens next?",
+            "options": [
+              "ADH secretion increases further to keep retaining water for later.",
+              "The anterior pituitary releases TSH to balance the fluid volume.",
+              "The adrenal cortex releases cortisol to keep the volume steady.",
+              "The normal osmolality inhibits ADH, completing the feedback loop."
+            ],
+            "answer": 3,
+            "rationale": "Correct: The endocrine system works on negative feedback, like a thermostat that shuts the heat off at 72. Once ADH has reabsorbed water and the osmolality is normal again, ADH is inhibited. Incorrect: A rising level would be positive, not negative, feedback. TSH regulates the thyroid and cortisol is the stress hormone; neither is the next step in the ADH loop.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The day after a total thyroidectomy, a client reports tingling around the mouth and muscle twitching. Which explanation best fits these cues?",
+            "options": [
+              "The thyroid hormone level dropped suddenly, which causes tingling.",
+              "The parathyroids may have been removed, so the calcium has dropped.",
+              "The iodine given before surgery is irritating the nerves of the face.",
+              "The expected hoarseness from surgery is spreading into the face."
+            ],
+            "answer": 1,
+            "rationale": "Correct: The four parathyroids are buried in the thyroid and regulate calcium and phosphorus. If they are inadvertently removed with the thyroid, the client can become hypocalcemic: tingling, twitching, and Chvostek's and Trousseau's signs. Incorrect: Nothing ties a thyroid hormone drop or the pre-op iodine to tingling. Hoarseness is expected for 3 to 4 days but is not a facial nerve symptom.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is very stressed before a big exam. Which sequence correctly describes the HPA axis response?",
+            "options": [
+              "Anterior pituitary releases CRF, then hypothalamus secretes ACTH, then cortisol rises",
+              "Adrenal cortex releases ACTH, then pituitary releases CRF, then cortisol rises",
+              "Hypothalamus releases CRF, then anterior pituitary secretes ACTH, then cortisol rises",
+              "Posterior pituitary releases ADH, then hypothalamus secretes CRF, then cortisol rises"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Stress triggers the hypothalamus to release CRF (corticotropin releasing factor; everything from the hypothalamus ends in RF). The target is the anterior pituitary, which secretes ACTH. ACTH's target, the adrenal cortex, releases cortisol. Incorrect: The other sequences put the hormones in the wrong glands or the wrong order; ADH from the posterior pituitary is not part of the HPA axis.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A student says, \"T4 must be the stronger thyroid hormone, since there's so much more of it circulating.\" How should the nurse respond?",
+            "options": [
+              "Correct, since the most abundant thyroid hormone is also the strongest one.",
+              "T3 and T4 are the same strength; they differ only in where they are made.",
+              "Neither one; calcitonin is the most potent hormone from the thyroid.",
+              "T4 is the most abundant, but T3 is the most potent of the two hormones."
+            ],
+            "answer": 3,
+            "rationale": "Correct: The thyroid, regulated by TSH from the anterior pituitary, secretes T3 and T4. T4 is the most abundant; T3 is the most potent. Incorrect: Abundance and potency are different things here. The page does not say the two are equal. Calcitonin is related to the thyroid but isn't discussed much in this course and is not described as the most potent.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is being evaluated for a possible parathyroid problem. Which labs would the nurse expect to be most important to follow?",
+            "options": [
+              "Serum sodium and serum osmolality",
+              "Serum calcium and serum phosphorus",
+              "T3, T4 and the TSH level together",
+              "Fasting glucose and the A1C levels"
+            ],
+            "answer": 1,
+            "rationale": "Correct: The parathyroids are a separate gland from the thyroid, even though they sit inside it, and they help regulate calcium and phosphorus. Incorrect: Sodium and osmolality go with ADH disorders. T3, T4 and TSH go with the thyroid itself. Glucose and A1C go with the pancreas and diabetes.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A student says, \"ADH and TSH both come from the anterior pituitary, since that's the master gland.\" Which correction is accurate?",
+            "options": [
+              "ADH is from the posterior pituitary, while TSH and ACTH come from the anterior.",
+              "Both come from the posterior pituitary; the anterior part just stores them.",
+              "ADH comes from the hypothalamus, since it ends in RF, and TSH from the thyroid.",
+              "Both come from the adrenal cortex, which then signals the pituitary to respond."
+            ],
+            "answer": 0,
+            "rationale": "Correct: The pituitary (the master gland) has an anterior and a posterior part. The posterior pituitary secretes oxytocin and ADH; the rest, including TSH and ACTH, come from the anterior pituitary. Incorrect: TSH is not posterior. Hypothalamus hormones end in RF (releasing factor), and ADH does not. The adrenal cortex releases cortisol in response to ACTH; it doesn't make ADH or TSH.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's stressful event has passed, and the cortisol level is now high. Based on negative feedback, what would the nurse expect to happen?",
+            "options": [
+              "CRF and ACTH release decrease, so the cortisol level comes back down.",
+              "CRF and ACTH release increase, so the cortisol level keeps climbing.",
+              "Insulin release stops, so the blood sugar stays high until the next meal.",
+              "ADH release increases, so the client retains water to balance the cortisol."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Negative feedback works like a thermostat: once the goal is reached, the signal shuts off. A high cortisol level turns down the hypothalamus (CRF) and the anterior pituitary (ACTH), so cortisol falls back toward normal, maintaining homeostasis. Incorrect: Rising signals would be positive feedback. Nothing on the page links this loop to stopping insulin or releasing ADH.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is reviewing endocrine anatomy with a student. Which statements are accurate? Select all that apply.",
+            "options": [
+              "The pituitary gland is called the master gland of the system.",
+              "There are four parathyroids buried within the thyroid.",
+              "The adrenal cortex covers; the medulla is in the middle.",
+              "Retaining water because of ADH also retains potassium.",
+              "T4 is the most potent of the circulating thyroid hormones.",
+              "The islets of Langerhans in the adrenal gland secrete insulin."
+            ],
+            "answers": [
+              0,
+              1,
+              2
+            ],
+            "rationale": "Correct: The pituitary is the master gland of the endocrine system. There are four parathyroids buried within the thyroid. In the adrenal gland, the cortex covers (outside) and the medulla is in the middle. Incorrect: ADH regulates pure water and does not retain potassium. T4 is the most abundant; T3 is the most potent. The islets of Langerhans are in the pancreas.",
+            "topic": "Endocrine Labs &amp; Dx",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week4-adh-disorders",
+      "label": "ADH Disorders",
+      "week": 4,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client with lung cancer has gained 2 kg in two days, has a low urine output, and is newly confused. The serum sodium is 124. Which interpretation fits these cues?",
+            "options": [
+              "Diabetes insipidus, with pure water loss raising the serum sodium",
+              "SIADH, with the water retention causing a dilutional hyponatremia",
+              "Cushing's syndrome, with aldosterone retaining sodium and water",
+              "Dehydration from cancer treatment, needing a large fluid bolus"
+            ],
+            "answer": 1,
+            "rationale": "Correct: The most common cause of SIADH is a paraneoplastic lung cancer secreting ectopic ADH. Too much ADH means water is reabsorbed, fluid volume rises (weight gain, low urine output), and the client becomes dilutionally hyponatremic; low sodium causes confusion. Incorrect: DI raises sodium and causes massive dilute urine output. Cushing's retains sodium, so sodium would not be low. A dehydrated client would not be gaining weight.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with SIADH has a serum sodium of 130 and mild symptoms. Which order does the nurse anticipate first?",
+            "options": [
+              "A rapid infusion of 3% saline to bring the sodium up now",
+              "Encouraging 3 L of oral fluids a day to flush the kidneys",
+              "Desmopressin to replace the missing antidiuretic hormone",
+              "A fluid restriction of about 1 L a day and daily weights"
+            ],
+            "answer": 3,
+            "rationale": "Correct: For mild symptoms and mild hyponatremia, the client is put on a fluid restriction (for example about 1 L a day), with daily weights and I&amp;O; restricting fluid re-concentrates the serum. Incorrect: Hypertonic saline is for severe symptoms or severe hyponatremia, and it is never given rapidly. Extra fluids worsen the dilution. Desmopressin is the treatment for diabetes insipidus, the opposite disorder.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with SIADH and a serum sodium of 119 is confused and keeps trying to climb out of bed. Which problem is the nurse's priority?",
+            "options": [
+              "Risk for injury from confusion caused by the hyponatremia",
+              "Deficient fluid volume from water lost through the kidneys",
+              "Hypokalemia from potassium lost along with retained water",
+              "Risk for bleeding from fragile capillaries and thin skin"
+            ],
+            "answer": 0,
+            "rationale": "Correct: SIADH's priority problems are excess fluid volume and risk for injury, because the hyponatremia makes these clients confused; their safety status must be monitored. Incorrect: SIADH is fluid excess, not deficit. ADH affects pure water only, so potassium is not lost. Fragile capillaries and thin skin describe Cushing's.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "After a closed head injury from a car accident, a client's urine output is about 900 mL an hour, clear like water, with a urine specific gravity of 1.002. The serum sodium is 152. What does the nurse anticipate?",
+            "options": [
+              "SIADH, so a fluid restriction of 500 mL a day will be ordered",
+              "Nephrogenic DI, so the client's lithium dose will be increased",
+              "Neurogenic DI, so desmopressin and IV fluids will be ordered",
+              "Cushing's syndrome, so the steroid dose will be tapered down"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Head trauma can cause neurogenic (central) DI: not enough ADH, so huge amounts of very dilute urine (low specific gravity), hemoconcentration and hypernatremia. Treatment is IV fluids and desmopressin (DDAVP), an exogenous ADH. It has an abrupt onset and is usually self-limiting, but the symptoms must be treated. Incorrect: SIADH lowers sodium and urine output. Lithium is the most common cause of nephrogenic DI, not a treatment. Cushing's does not cause this picture.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who takes lithium develops gradually increasing thirst and large volumes of dilute urine. Which explanation fits?",
+            "options": [
+              "Neurogenic DI from damage to the pituitary that stores ADH",
+              "Nephrogenic DI, since the kidneys don't respond to ADH",
+              "SIADH from the lithium raising ADH levels in the blood",
+              "Diabetes mellitus, since polyuria comes from high glucose"
+            ],
+            "answer": 1,
+            "rationale": "Correct: In nephrogenic DI the pituitary is OK, but the kidneys don't respond; lithium is the most common cause. The onset is less abrupt and the symptoms less severe than neurogenic DI. Incorrect: Neurogenic DI comes from pituitary damage such as head trauma. SIADH would cause water retention, not polyuria. Diabetes insipidus and diabetes mellitus are two totally different things.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with DI is receiving desmopressin. Over the last 4 hours, the urine output has risen and the urine specific gravity has dropped. What should the nurse do?",
+            "options": [
+              "Continue the current dose, since this pattern is expected with DI.",
+              "Restrict fluids further, since the client is retaining too much water.",
+              "Hold the desmopressin, since the drug is causing the high urine output now.",
+              "Notify the provider, since DI is worsening and the dose may need to go up."
+            ],
+            "answer": 3,
+            "rationale": "Correct: The nurse notifies the provider of an increase in urine volume with a decrease in specific gravity: the disease is getting worse instead of better, so the dosing may need to increase. Incorrect: This is not an expected pattern on treatment. The client is losing water, not retaining it. Desmopressin is exogenous ADH; it reduces urine output rather than causing it.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's labs show a serum osmolality of 312 and a urine specific gravity of 1.003. How should the nurse interpret this pairing?",
+            "options": [
+              "Concentrated serum with dilute urine, which fits diabetes insipidus",
+              "Dilute serum with dilute urine, which fits SIADH and water overload",
+              "Concentrated serum and urine, which fits simple dehydration only",
+              "A likely lab error, since serum and urine must always match"
+            ],
+            "answer": 0,
+            "rationale": "Correct: In DI, pure water is lost through the kidneys, so serum osmolality rises (300 or higher is elevated; normal is about 270 to 290) while the urine is very dilute, with a very low specific gravity (normal 1.010 to 1.030). Incorrect: The serum here is concentrated, not dilute, and SIADH lowers serum osmolality. The urine is dilute, not concentrated. Serum and urine move in opposite directions in DI.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with chronic SIADH is started on demeclocycline. The client asks what the drug does. Which response is accurate?",
+            "options": [
+              "It replaces the ADH your body is missing, so you'll urinate less.",
+              "It is a hypertonic saline tablet that brings your sodium up quickly.",
+              "It blocks the effects of ADH, so your body holds on to less water.",
+              "It treats the lung tumor, which stops the tumor from making ADH."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Drug therapy is only for chronic SIADH; demeclocycline blocks the effects of ADH (diuretics are sometimes used too). Incorrect: Replacing ADH is desmopressin, for DI. Hypertonic saline is an IV solution, given slowly, for severe hyponatremia. Nothing describes demeclocycline as a cancer treatment.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with SIADH on a fluid restriction weighed 70.0 kg yesterday and 71.5 kg today. The serum sodium dropped from 128 to 124 overnight. Which action is best?",
+            "options": [
+              "Document it as expected, since weight changes from day to day with meals.",
+              "Encourage more oral fluids, since the client is now dehydrated.",
+              "Give an extra dose of desmopressin to slow the water retention.",
+              "Report the worsening retention and review intake against the limit."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Daily weights and I&amp;O track fluid volume. A weight gain with a falling sodium shows the client is retaining more water and becoming more dilute, so the fluid volume excess is worsening: report it and check that the fluid restriction is being followed. Incorrect: A 1.5 kg overnight gain with a dropping sodium is not expected. More fluid worsens SIADH. Desmopressin is ADH and would increase water retention.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is diagnosed with diabetes insipidus. Which findings does the nurse expect? Select all that apply.",
+            "options": [
+              "Urine output of 5 to 20 L a day",
+              "A very low urine specific gravity",
+              "Serum osmolality of 300 or higher",
+              "Thirst and drinking large amounts",
+              "Serum sodium below 135 mEq/L",
+              "Steady weight gain over the week"
+            ],
+            "answers": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "rationale": "Correct: DI causes polyuria of 5 to 20 L a day of very dilute urine (very low specific gravity and urine osmolality). The serum becomes concentrated (300 or higher is elevated) and the client becomes hypernatremic, and the high osmolality makes them thirsty. Incorrect: Low sodium and weight gain describe SIADH, the opposite disorder.",
+            "topic": "ADH Disorders",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week4-adrenal-disorders",
+      "label": "Adrenal Disorders",
+      "week": 4,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client has taken oral prednisone for COPD for two years. The nurse notes a round face, a fat pad at the upper back, thin arms and legs, and bruises. The potassium is 3.1 and the glucose is 188. Which condition do these cues suggest?",
+            "options": [
+              "Addison's disease from too little cortisol and aldosterone",
+              "A pheochromocytoma secreting excess catecholamines",
+              "Diabetes insipidus from too little antidiuretic hormone",
+              "Cushing's syndrome from long-term oral systemic steroids"
+            ],
+            "answer": 3,
+            "rationale": "Correct: The most common cause of Cushing's syndrome is long-term oral systemic steroids. Moon face, buffalo hump, thin extremities, easy bruising (fragile capillaries), hyperglycemia and hypokalemia are classic. Incorrect: Addison's causes hypoglycemia and hyperkalemia. A pheochromocytoma causes intractable hypertension with headache, palpitations and sweating. DI causes massive dilute urine output.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is planning the diet for a client with Cushing's syndrome. Which plan is appropriate?",
+            "options": [
+              "Lower protein and potassium, with extra calories and sodium",
+              "Higher protein and potassium, fewer calories and less sodium",
+              "Higher sodium to replace losses, with a high-calorie snack plan",
+              "Lower protein to protect the kidneys, with a high-potassium plan"
+            ],
+            "answer": 1,
+            "rationale": "Correct: For Cushing's, the diet increases protein (protein breakdown) and potassium (hypokalemia), and decreases calories (truncal obesity, high glucose) and sodium (sodium and fluid retention, hypertension). Incorrect: The other plans reverse one or more of these: extra sodium worsens retention and BP, extra calories worsen weight and glucose, and lower protein ignores the protein breakdown.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who has taken prednisone for rheumatoid arthritis for a year says, \"I hate how I look. I'm going to stop the prednisone tonight.\" What is the nurse's best response?",
+            "options": [
+              "That's reasonable, since stopping the steroid will reverse the changes.",
+              "Double the dose for a few days first, and then stop it all at once.",
+              "Don't stop it on your own; the provider can lower the dose gradually.",
+              "Switch to an over-the-counter NSAID tonight in place of the steroid."
+            ],
+            "answer": 2,
+            "rationale": "Correct: When Cushing's syndrome comes from steroids for a condition like RA or COPD, the options are gradually decreasing the drug, reducing the dose, or trying every-other-day dosing, all provider supervised. Body image concerns are a real priority problem to address too. Incorrect: Stopping abruptly or doubling then stopping is not provider supervised. The client should not switch drugs on their own.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A student asks why a client with Cushing's syndrome is hypokalemic. Which explanation is accurate?",
+            "options": [
+              "High cortisol stimulates aldosterone, so sodium rises and potassium falls.",
+              "Excess ADH dilutes the potassium, the same way it dilutes the serum sodium.",
+              "Low aldosterone lets potassium leave the body in large volumes of urine.",
+              "The kidneys stop excreting potassium, so it is stored inside the cells."
+            ],
+            "answer": 0,
+            "rationale": "Correct: High cortisol stimulates the mineralocorticoid aldosterone; when aldosterone increases, sodium increases and potassium decreases (\"commit that to memory\"). Incorrect: ADH affects pure water only, not potassium. Aldosterone is high in Cushing's, not low. Nothing describes the kidneys storing potassium in cells.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A thin client reports weeks of weakness and salt cravings. The skin looks tan, with dark palmar creases. Labs: sodium 129, potassium 5.8, glucose 62, BP 88/50. Which condition fits?",
+            "options": [
+              "Cushing's syndrome, from excess cortisol and aldosterone levels",
+              "SIADH from a tumor secreting antidiuretic hormone",
+              "A pheochromocytoma secreting extra epinephrine",
+              "Addison's disease from too little cortisol and aldosterone"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Addison's disease is an insufficiency of the adrenal cortex hormones. Low aldosterone: low sodium, salt cravings, low blood volume and BP, high potassium. Low cortisol: hypoglycemia, weakness (the cardinal symptom). Unsuppressed ACTH causes the hyperpigmentation (palmar creases, nail beds, gums). Incorrect: Cushing's is the opposite (high glucose, BP and sodium, low potassium). SIADH would not cause hyperkalemia, hypoglycemia or pigmentation. A pheochromocytoma causes hypertension.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Addison's disease calls the clinic with the flu and a fever. The client takes hydrocortisone daily. What should the nurse teach?",
+            "options": [
+              "Skip doses until you're eating normally again to avoid an upset stomach.",
+              "Stop the hydrocortisone until the fever goes away, then restart it.",
+              "Take 3 times your usual dose for 3 days to cover the stress of illness.",
+              "Keep taking the same dose, since illness doesn't change your needs."
+            ],
+            "answer": 2,
+            "rationale": "Correct: People with Addison's can't make extra cortisol for stress, so the rule of thumb is the 3 x 3 rule: 3 times the dose for 3 days when stressed (sick, a big exam, a marathon), depending on the severity. Incorrect: Skipping or stopping doses is dangerous: never stop abruptly, and replacement is forever. Keeping the same dose ignores the extra cortisol stress requires and risks an Addisonian crisis.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client newly diagnosed with Addison's disease is starting hydrocortisone. How should the daily dose be scheduled?",
+            "options": [
+              "Two-thirds in the morning and one-third in the late afternoon",
+              "Divided evenly into three doses spread throughout the day",
+              "The full daily dose at bedtime, so it lasts through the night",
+              "One-third in the morning and two-thirds in the late afternoon"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Hydrocortisone is typically taken two-thirds in the morning and one-third in the late afternoon, following the diurnal rhythm: the body has more cortisol in the morning, when it's needed to get up and going. Fludrocortisone, for missing aldosterone, is taken in the morning. Incorrect: Even dosing, bedtime dosing and the reversed split don't match the body's diurnal rhythm.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Addison's disease arrives in the ED after a car accident. The client is confused, with a BP of 70/40 and a glucose of 54. What does the nurse anticipate?",
+            "options": [
+              "A fluid restriction and a diuretic to correct the low sodium",
+              "IV cortisol, saline and dextrose, with close vital sign checks",
+              "An insulin drip and frequent glucose checks for the next few hours",
+              "A beta blocker to slow the heart and calm the stress response"
+            ],
+            "answer": 1,
+            "rationale": "Correct: A major stressor without the cortisol to respond can cause an Addisonian crisis: an abrupt adrenal insufficiency that can be fatal. Treatment is IV cortisol replacement, saline and dextrose; these clients can be extremely hemodynamically unstable, so the vital signs are trended closely in a calm environment. Incorrect: Fluid restriction and diuretics worsen the low volume. Insulin worsens hypoglycemia. A beta blocker does not replace the missing hormones.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 42-year-old client's BP stays around 210/120 despite three antihypertensives. The client reports episodes of pounding headaches, palpitations and drenching sweats. What does the nurse anticipate?",
+            "options": [
+              "Cushing's syndrome, so a slow steroid taper will be ordered",
+              "Addison's disease, so hydrocortisone will be started",
+              "An anxiety disorder, so an anxiolytic will be ordered",
+              "A pheochromocytoma, so catecholamine tests will be ordered"
+            ],
+            "answer": 3,
+            "rationale": "Correct: A pheochromocytoma is a tumor of the adrenal medulla secreting epinephrine and norepinephrine: intractable hypertension plus the triad of palpitations, headache and sweating. It is often missed (only 0.1% of high BPs) but quite easy to diagnose once suspected: serum catecholamines, possibly a 24-hour urine. Treatment is removing the tumor. Incorrect: Cushing's raises BP but doesn't cause this episodic triad. Addison's causes low BP. Anxiety doesn't explain intractable hypertension.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is planning care for a client with Cushing's syndrome. Which actions are appropriate? Select all that apply.",
+            "options": [
+              "Monitor blood glucose levels closely",
+              "Handle skin gently to prevent tears",
+              "Watch closely for signs of infection",
+              "Encourage high-sodium foods at meals",
+              "Watch for signs of a high potassium",
+              "Use precautions to prevent fractures"
+            ],
+            "answers": [
+              0,
+              1,
+              2,
+              5
+            ],
+            "rationale": "Correct: Cushing's priorities include unstable blood glucose (hyperglycemia), skin integrity (thin skin that tears and bruises easily), risk for infection (immunosuppression and poor healing) and risk for injury (osteoporosis and spontaneous fractures). Incorrect: Sodium is decreased in the diet because of sodium and fluid retention. Cushing's causes hypokalemia, not hyperkalemia.",
+            "topic": "Adrenal Disorders",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week4-thyroid-disorders",
+      "label": "Thyroid Disorders",
+      "week": 4,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A 34-year-old client has lost 6 kg despite eating more than usual. The client has diarrhea, warm moist skin, a heart rate of 112 and protruding eyes. Which condition is most likely?",
+            "options": [
+              "Hyperthyroidism, most likely from Graves' disease",
+              "Hypothyroidism, most likely from Hashimoto's disease",
+              "Addison's disease from low cortisol levels",
+              "Cushing's syndrome from long-term steroids"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Hyperthyroidism revs everything up: a voracious appetite with weight loss, diarrhea from increased peristalsis, warm moist skin and tachycardia. Exophthalmos is a characteristic unique to hyperthyroidism, and Graves' disease (autoimmune) causes it three-fourths of the time. Incorrect: Hypothyroidism slows everything (weight gain, constipation). Addison's and Cushing's are adrenal disorders without exophthalmos.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client reports fatigue, constipation, weight gain and always feeling cold. The TSH is high and the T4 is low. How should the nurse interpret these labs?",
+            "options": [
+              "Hyperthyroidism: a high TSH means the thyroid gland is overactive",
+              "A euthyroid state: the high TSH balances out the low T4",
+              "Hypothyroidism: the pituitary is pushing an underactive thyroid",
+              "A pituitary problem: the gland is making too little TSH"
+            ],
+            "answer": 2,
+            "rationale": "Correct: In hypothyroidism T3 and T4 are low, and the TSH is high because the anterior pituitary is trying to get the \"lazy thyroid\" to work. Fatigue, constipation, weight gain and cold intolerance fit everything slowing down. Incorrect: In hyperthyroidism TSH falls as the pituitary tries to shut the thyroid off. A euthyroid state has normal levels. The TSH here is high, not low.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Graves' disease started methimazole 3 days ago and says, \"I still have palpitations. This drug isn't working.\" What is the nurse's best response?",
+            "options": [
+              "That means the drug has failed, so surgery will need to be scheduled.",
+              "It takes 1 to 2 weeks to kick in; beta blockers can help in the meantime.",
+              "Take a double dose for the next few days to speed up the drug's effect.",
+              "Stop the drug and call the provider, since it should work within a day or so."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Methimazole decreases the activity of the thyroid, but not instantly: 1 to 2 weeks before it kicks in and 4 to 8 weeks before it is doing a good job. In the meantime, PO beta blockers treat the symptoms of hyperthyroidism. Incorrect: Three days is too soon to call it a failure. The client should not change the dose. It is not expected to work within a day.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client scheduled for a thyroidectomy is ordered Lugol's solution (iodine) for several days before surgery. The client asks why. Which explanation is accurate?",
+            "options": [
+              "It cures the hyperthyroidism, so the surgery may not be needed.",
+              "It destroys the thyroid gland so less tissue has to be removed.",
+              "It raises the calcium level to protect the parathyroid glands.",
+              "It makes the gland less vascular, which lowers bleeding risks."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Iodine therapy (SSKI or Lugol's solution) is used to prepare a client for thyroidectomy because it decreases the vascularity of the thyroid, which is very vascular, lowering the chance of bleeding after surgery. Incorrect: It is not described as a cure. Destroying the gland (ablation) is what radioactive iodine does. Nothing links it to raising calcium.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two hours after a thyroidectomy, a client's front dressing is dry. The client is restless and says the neck feels tight. What should the nurse do first?",
+            "options": [
+              "Reassure the client, since neck tightness and hoarseness are expected.",
+              "Lower the head of the bed flat to help the client rest more comfortably.",
+              "Check the back of the neck for bleeding and assess the airway closely.",
+              "Have the client flex the neck forward to ease the tension on the incision."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Thyroid surgery is close to the airway and the gland is very vascular, so the nurse watches for hemorrhage and tracheal compression. Always look posterior: blood follows gravity, so a dry front dressing does not rule out bleeding. Restlessness and tightness are red flags. Incorrect: Hoarseness is expected, but tightness and restlessness are not reassuring. The client stays in semi-Fowler's, and flexion or tension on the suture lines is avoided.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "On the second day after a thyroidectomy, a client's voice is hoarse. The airway is clear, the vital signs are stable and there is no bleeding. How should the nurse interpret this?",
+            "options": [
+              "Hoarseness is expected for 3 to 4 days; keep monitoring as planned.",
+              "Hoarseness this late means nerve damage, so notify the provider now.",
+              "Hoarseness signals tracheal compression, so call a rapid response.",
+              "Hoarseness means hypocalcemia, so check for Chvostek's sign right away."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Hoarseness is an expected finding for 3 to 4 days after thyroid surgery; with a clear airway, stable vital signs and no bleeding, the nurse continues to monitor. Incorrect: Day 2 is within the expected window. Tracheal compression would cause airway and breathing changes, not just hoarseness. Hypocalcemia from parathyroid removal shows as tingling, twitching and Chvostek's and Trousseau's signs.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Graves' disease is scheduled for radioactive iodine (I-131). The client asks, \"Will I be back to normal without any pills once this is done?\" Which response is accurate?",
+            "options": [
+              "Yes, it resets the thyroid to normal, so no medicine will be needed after.",
+              "No, it destroys the overactive thyroid, so you will need lifelong pills.",
+              "Yes, you'll need medicine for only about 2 weeks while the iodine clears.",
+              "No, but you'll need medicine for life only if you become pregnant later."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Radioactive iodine, the treatment of choice for non-pregnant clients, deliberately kills off the overactive thyroid (ablation) over 6 to 18 weeks, so the client will need thyroid replacement for the rest of their life. Anti-thyroid drugs and beta blockers continue until it takes effect. Incorrect: It does not reset the gland to normal. Replacement is lifelong, not 2 weeks. Pregnancy is a reason not to use it, not the reason for replacement.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with hypothyroidism has swelling of the lower legs and around the eyes. The swelling is hard and does not pit when pressed. Which interpretation is correct?",
+            "options": [
+              "Pitting edema from heart failure, so a fluid restriction is needed",
+              "A deep vein thrombosis, since the swelling is in the lower legs",
+              "Exophthalmos, from fat and fluid deposits behind the eyes",
+              "Myxedema, which can be reversed with thyroid hormone therapy"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Myxedema refers to the skin and tissue changes of hypothyroidism: hard, non-pitting swelling (for example on the legs and around the eyes) that can be reversed with thyroid hormones. Incorrect: The swelling is non-pitting, so it isn't heart failure edema. A VTE is typically unilateral leg swelling, not bilateral legs and eyes. Exophthalmos (protruding eyes) is a hyperthyroid finding.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Graves' disease has a thyroidectomy. That evening the client becomes agitated and diaphoretic, with a heart rate of 150 and palpitations. What does the nurse suspect?",
+            "options": [
+              "Thyroid storm, an extreme of hyperthyroidism triggered by stress",
+              "Myxedema coma, an extreme of hypothyroidism after the surgery today",
+              "Hypocalcemia from removal of the parathyroids during surgery",
+              "An expected reaction to anesthesia that needs no intervention"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Thyroid storm (acute thyrotoxicosis, thyrotoxic crisis) is hyperthyroidism to the extreme. It results from stressors in a client with pre-existing hyperthyroidism, and manipulation of the gland during a thyroidectomy can trigger it; all the hyperthyroid symptoms become prominent and severe. Incorrect: Myxedema coma is severe hypothyroidism (mental status changes, coma). Hypocalcemia causes tingling and twitching. These severe findings are not expected.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is being evaluated for possible hypothyroidism. Which reported findings support this diagnosis? Select all that apply.",
+            "options": [
+              "Often feeling cold when others are not",
+              "Constipation that has slowly worsened",
+              "Steady weight gain over several months",
+              "Red palms that have appeared recently",
+              "Eyes that look like they bulge forward",
+              "A huge appetite while losing weight"
+            ],
+            "answers": [
+              0,
+              1,
+              2
+            ],
+            "rationale": "Correct: Hypothyroidism slows everything down: cold intolerance, constipation, weight gain, plus depression, fatigue and somnolence. Incorrect: Palmar erythema (red palms) is unique to hyperthyroidism. Exophthalmos is a hyperthyroid finding. A voracious appetite with weight loss is hyperthyroidism too.",
+            "topic": "Thyroid Disorders",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week4-diabetes",
+      "label": "DM: Patho, Pharm &amp; Nursing Care",
+      "week": 4,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A 19-year-old arrives very ill after a week of extreme thirst, frequent urination, constant hunger and weight loss. The blood glucose is 420. Which interpretation and plan fit best?",
+            "options": [
+              "Type 2 diabetes, so oral medications will be started first",
+              "Prediabetes, so lifestyle changes and a recheck are needed",
+              "Type 1 diabetes, so insulin replacement will be required",
+              "Gestational diabetes, so an OGTT is the next test needed"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Type 1 is more common in younger adults, usually has an abrupt onset with a really high glucose and a very sick client, and comes from autoimmune destruction of the beta cells, so there is no endogenous insulin: insulin replacement is a must. Islet cell autoantibody testing confirms it. Incorrect: Type 2 usually develops slowly and can go undiagnosed for years. Prediabetes has no symptoms. The OGTT is used for gestational diabetes, not this picture.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with type 2 diabetes had a normal fasting glucose this morning. The provider orders an A1C to see whether the new medication is working. The client asks why the morning glucose isn't enough. Which explanation is accurate?",
+            "options": [
+              "The A1C replaces the need to check your blood sugar at home at all.",
+              "The A1C reflects about 120 days of glucose, so it shows the trend.",
+              "The A1C shows only today's glucose, measured more precisely.",
+              "The A1C is used only to diagnose type 1 diabetes, not type 2."
+            ],
+            "answer": 1,
+            "rationale": "Correct: The hemoglobin A1C is the indicator of average glucose over the past 120 days (about 3 months), so it is the lab used to see whether medications and lifestyle changes are working; a single fasting glucose isn't used for that. Incorrect: Self-monitoring is still a crucial part of management. The A1C is an average, not today's value. Type 1 is diagnosed with islet cell autoantibodies, and the A1C is used for both types.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with no symptoms has a fasting blood glucose of 132 at a routine visit. The client asks, \"So I have diabetes now?\" Which response fits the lecture?",
+            "options": [
+              "Not yet; one result isn't enough, so the test is repeated within a week.",
+              "Yes; any fasting value over 126 confirms diabetes, so insulin will start.",
+              "No; that value is normal, since only results over 200 count for fasting.",
+              "Maybe; you'll need islet cell antibody testing to find out which type."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Diabetes isn't diagnosed from one lab. A fasting glucose over 126 is a warning sign, and the client is asked to repeat it within the next week before a diagnosis is made. Incorrect: A single value doesn't confirm diabetes, and type 2 often starts with oral medication, not insulin. Over 200 is the casual (random) glucose cutoff, not the fasting one. Islet cell antibodies are for suspected type 1.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with diabetes has 6 units of regular insulin scheduled with breakfast. The client was made NPO overnight for a procedure this morning, and the fingerstick glucose is 98. What should the nurse do?",
+            "options": [
+              "Give the full 6 units as scheduled, since the glucose is within range.",
+              "Hold the dose now and give double the dose with lunch to catch up.",
+              "Give the full dose, then give orange juice to prevent a low sugar.",
+              "Follow the NPO insulin policy and clarify the scheduled dose first."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Before giving insulin the nurse must know the current glucose and the diet order and intake. A client who is NPO with scheduled insulin is handled by hospital policy (for example 50% of the scheduled dose, or holding boluses), and scheduled doses may need adjusting with the provider. Incorrect: Giving the full mealtime dose with no meal risks hypoglycemia. Doubling later is not a practice the lecture describes. Juice would break the NPO order.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with diabetes is sweaty, shaky and irritable, but awake and able to swallow. The fingerstick glucose is 56. What should the nurse do first?",
+            "options": [
+              "Give a candy bar, since it raises the sugar and keeps it up longer.",
+              "Give 15 g of simple carbohydrate, such as 4 to 6 oz of orange juice.",
+              "Give IM glucagon, since any glucose below 60 needs injectable sugar.",
+              "Give a full meal now and recheck the blood glucose in about an hour."
+            ],
+            "answer": 1,
+            "rationale": "Correct: For hypoglycemia (below 70) in a client who is awake and able to swallow, the rule of 15: give 15 grams of simple carbohydrate (4 to 6 oz of orange juice or regular soda, 3 glucose tabs, 1 tablespoon of honey, or 5 to 8 Lifesavers) and recheck in 15 minutes. Incorrect: Candy bars contain fat, which delays absorption. Glucagon is for a client who is unresponsive or can't safely eat. A regular meal comes after the glucose recovers, and the recheck is at 15 minutes.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with diabetes is found pale, barely responsive and unable to follow commands. The fingerstick glucose is 41. Which action is appropriate?",
+            "options": [
+              "Hold 4 to 6 oz of orange juice to the client's lips and help them drink.",
+              "Recheck the glucose in 15 minutes to confirm it before doing anything.",
+              "Give IM glucagon or IV dextrose, since the client can't swallow safely.",
+              "Give the scheduled rapid-acting insulin to stabilize the blood glucose."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Oral carbohydrates require a client who is awake and able to swallow. A client who is unresponsive or nearly passed out gets intramuscular glucagon or IV dextrose (25 to 50 mL); untreated hypoglycemia can cause seizures and death. Incorrect: Oral juice risks aspiration in a client who can't swallow. The glucose is already confirmed low, so waiting delays treatment. Insulin lowers the glucose further.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Fifteen minutes after drinking 4 oz of orange juice for a glucose of 58, a client's recheck is 64. The client still feels shaky. What should the nurse do next?",
+            "options": [
+              "Give the client's scheduled insulin, since the glucose is now rising.",
+              "Have the client eat a regular meal now, then recheck in a few hours.",
+              "Notify the provider and wait for orders before giving more sugar.",
+              "Give another 15 g of simple carbohydrate and recheck in 15 minutes."
+            ],
+            "answer": 3,
+            "rationale": "Correct: If the blood sugar is still below 70 after 15 minutes, repeat the rule of 15: another 15 grams of simple carbohydrate and a recheck 15 minutes later, until the glucose is stable; then the client eats a regular meal. Incorrect: Insulin would drop the glucose again. A regular meal is for after the glucose has recovered. The rule of 15 is the nurse's treatment; waiting delays it.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with type 2 diabetes calls with a stomach virus and vomiting. The client says, \"Since I'm not eating, I'll just skip my diabetes medicines until I feel better.\" Which teaching is accurate?",
+            "options": [
+              "Keep taking your medicines if you can, check sugar every 2 to 4 hours, and call if ketones show up.",
+              "Skip all of your diabetes medicines until you're eating again, so your sugar doesn't drop too low.",
+              "Take double your usual insulin while you're sick, since illness always makes your sugar go higher.",
+              "Stop checking your blood sugar until you feel better, since the numbers won't be accurate when ill."
+            ],
+            "answer": 0,
+            "rationale": "Correct: On sick days, clients keep taking their medications when possible (oral meds work long-term; insulin as long as the sugar tolerates it), check blood sugar more often, even every 2 to 4 hours, prevent dehydration, meet carbohydrate needs with liquids if needed, and call the provider for positive urine ketones, a sugar over 250, or illness lasting over 2 days. Incorrect: Skipping medications or monitoring is unsafe, since illness raises sugar and DKA risk. Doubling insulin on your own is not the teaching.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with type 1 diabetes checks a blood glucose of 270 before a planned jog. Which response is accurate?",
+            "options": [
+              "Go ahead and jog, since exercise is the fastest way to lower it.",
+              "Don't exercise above 250; recheck and address the high sugar first.",
+              "Eat a carbohydrate snack first, then jog as you planned to today.",
+              "Jog a shorter distance, since exercise is safe until the sugar is 300."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Clients are taught not to exercise when the glucose is out of range: below 80 or above 250. Incorrect: Exercising at 270 is outside the safe range. A carbohydrate snack is for a sugar that may run low (for example, more than an hour since eating or a high-intensity workout), not a high one. The cutoff taught is 250, not 300.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with type 2 diabetes asks for help planning healthy habits. Which teaching statements are accurate? Select all that apply.",
+            "options": [
+              "Carbohydrates can make up about 45 to 65% of daily calories.",
+              "You should never eat pasta again, now that you have diabetes.",
+              "Limit alcohol to 1 drink a day for women and 2 a day for men.",
+              "Alternative sweeteners are OK, since they don't raise the sugar.",
+              "A commercial callus remover is a safe way to treat foot calluses.",
+              "Wear a medical alert bracelet, especially when you exercise."
+            ],
+            "answers": [
+              0,
+              2,
+              3,
+              5
+            ],
+            "rationale": "Correct: Don't avoid carbs: they are about 45 to 65% of daily calories, from good sources like whole grains, fruits and legumes. Alcohol is limited to 1 a day for women and 2 for men (it can raise and then drop the sugar). Alternative sweeteners don't raise blood sugar and are acceptable. A medical alert bracelet is recommended. Incorrect: Never tell a client to never eat pasta; limit it. Commercial remedies for calluses are not used in diabetic foot care.",
+            "topic": "DM: Patho, Pharm &amp; Nursing Care",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
       "id": "medsurg1-week1-respiratory",
       "label": "Med Surg I Wk 1: Respiratory",
       "sets": {
@@ -3032,6 +3770,11 @@ window.QUIZ_BANK = {
     "PVC, V-Tach &amp; V-Fib",
     "HF, PAD, AAA &amp; Raynaud's",
     "CVI &amp; VTE",
+    "Endocrine Labs &amp; Dx",
+    "ADH Disorders",
+    "Adrenal Disorders",
+    "Thyroid Disorders",
+    "DM: Patho, Pharm &amp; Nursing Care",
     "Med Surg I Wk 1: Respiratory",
     "Med Surg I Wk 2: Hematology",
     "Med Surg I Wk 3: Periop, Fluids &amp; Electrolytes",
