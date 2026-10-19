@@ -1257,6 +1257,744 @@ window.QUIZ_BANK = {
       }
     },
     {
+      "id": "week3-intro-sinus-dysrhythmias",
+      "label": "Intro &amp; Sinus Dysrhythmias",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client's 6-second telemetry strip shows 5 QRS complexes, each with a P wave before it. The client says, \"I feel lightheaded, like I might pass out,\" and the BP is 82/50. What should the nurse do?",
+            "options": [
+              "Keep monitoring, since a rate this slow can be normal in well-conditioned people.",
+              "Give the ordered beta blocker to lower the myocardial oxygen demand right away.",
+              "Give atropine 1 mg IV, since this rate of about 50 is causing the symptoms.",
+              "Begin transcutaneous pacing before any medication is given to this client."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Every strip is 6 seconds, so 5 QRSs times 10 is a rate of 50: sinus bradycardia. The client is symptomatic (lightheaded, near-syncope) with a low BP, so the next action is atropine 1 mg IV (every 3 to 5 minutes, 3 mg max). Incorrect: Monitoring is for an asymptomatic client with OK vital signs. A beta blocker slows the rate further. Transcutaneous pacing is used if atropine doesn't do the job.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with symptomatic sinus bradycardia has received atropine 1 mg IV three times, 3 to 5 minutes apart. The rate is still 42, the BP is 78/44, and the client is confused. What is the nurse's next action?",
+            "options": [
+              "Begin transcutaneous pacing at the bedside now.",
+              "Give a fourth dose of atropine 1 mg IV push.",
+              "Give adenosine by rapid IV push with a flush.",
+              "Prepare the client for synchronized cardioversion."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Atropine is given 1 mg every 3 to 5 minutes up to a 3 mg maximum, so it is used up. A client who stays symptomatic needs something right here, right now: transcutaneous pacing (essentially creating the SA node through the skin). Incorrect: A fourth dose exceeds the 3 mg maximum. Adenosine slows the heart rate, the opposite of what is needed. Synchronized cardioversion is for unstable tachydysrhythmias with an R wave, not bradycardia.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The central monitor alarms for a client on telemetry and shows a chaotic, irregular tracing. The client was last seen brushing their teeth at the sink. What should the nurse do first?",
+            "options": [
+              "Call a code and bring the defibrillator to the client's room.",
+              "Print the strip and call the provider to come interpret it.",
+              "Switch the monitor to lead III to get a better look at it.",
+              "Go to the client, then check the electrodes and connections."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Alarms are not fail-proof, and when the monitor changes the next best action is to go check on the patient. Brushing the teeth is a classic cause of artifact, which looks scary but is not the patient's heart; the nurse checks the connections and electrodes and replaces them if needed. Incorrect: Calling a code before seeing the client treats artifact as a rhythm. Printing and calling the provider delays seeing the client. Changing the lead is useful for an odd-looking strip, but it does not replace checking on the patient.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse counts 7 small boxes from the start of the P wave to the start of the QRS on a client's strip. How should this be interpreted?",
+            "options": [
+              "0.28 seconds, which is normal because it stays under 0.30 seconds.",
+              "0.28 seconds, over 0.20, so atrial-to-ventricular conduction is delayed.",
+              "0.14 seconds, which is within the normal PR range of 0.12 to 0.20 seconds.",
+              "1.4 seconds, which means the AV node has stopped conducting impulses at all."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Each tiny box is 0.04 seconds, so 7 boxes is 0.28 seconds. The PR interval should be 0.12 to 0.20; longer than 0.20 implies something is wrong with conduction between the atria and the ventricles. Incorrect: 0.30 is not the upper limit. 0.14 uses 0.02 per box. 1.4 uses 0.20 per box (that is the value of a whole big box of five).",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "On the first day after surgery, a client's heart rate is 128 in sinus tachycardia. The temperature is 39.2 C (102.6 F), pain is 8 out of 10, and the BP is stable. Which plan is most appropriate?",
+            "options": [
+              "Treat the fever and the pain, then reassess the heart rate afterward.",
+              "Give a beta blocker first to cut the heart rate and oxygen demand fast.",
+              "Prepare for synchronized cardioversion, since the rate is over 100.",
+              "Hold all IV fluids, because the fast rate means the client is overloaded."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Sinus tachycardia is treated by what is causing it: pain gets an analgesic and fever gets an antipyretic. Beta blockers can reduce the rate and oxygen demand, but the cause is treated first. Incorrect: Starting with the beta blocker skips the cause. Cardioversion is for unstable tachydysrhythmias, not a compensating sinus tachycardia. A fast rate is not a sign of overload; low fluid volume is one of the causes, treated by replacing fluid.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients have a heart rate of 54. Client A is a marathon runner with a BP of 122/76 who feels fine. Client B is dizzy when standing, with a BP of 86/52 and cool, clammy skin. Which statement is correct?",
+            "options": [
+              "Client A and client B need atropine, since any rate under 60 counts.",
+              "Client A needs pacing, since athletes cannot raise their own heart rate.",
+              "Client B needs treatment now, while client A can simply be monitored.",
+              "Neither client needs anything, since a rate of 54 is close to normal."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Bradycardia can be normal in a well-conditioned person with a good BP and cardiac output, so client A is monitored, not treated. Client B is symptomatic (dizziness, low BP, cool clammy skin are key features of decreased cardiac output), so client B needs intervention. Incorrect: Atropine is for symptomatic bradycardia, not every rate under 60. Nothing on the page says athletes need pacing. Client B's symptoms make the same rate a problem.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with a new dysrhythmia has an apical pulse of 96 while a second nurse counts a radial pulse of 80 at the same time. How should the nurse interpret this?",
+            "options": [
+              "The radial count is the true rate, since it shows what reaches the tissues.",
+              "A gap under 20 beats is expected, so no further action is needed for now.",
+              "The apical count was likely too long, so both pulses should be redone now.",
+              "Not every beat is perfusing the periphery, which isn't an expected finding."
+            ],
+            "answer": 3,
+            "rationale": "Correct: A pulse deficit is when the simultaneous apical and radial counts differ. It means not every beat from the left ventricle is perfusing the periphery, and it is not an expected finding: a key feature of a sustained tachy- or bradydysrhythmia. Incorrect: The apical count is the heart's rate; the radial count shows how many beats perfuse. There is no acceptable gap. The two nurses already counted simultaneously, the correct method.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with coronary artery disease has had a sustained heart rate of 134 for several hours and now reports chest pain. Which explanation fits the lecture?",
+            "options": [
+              "The fast rate lengthens diastole, which overfills the coronary arteries.",
+              "The fast rate shortens diastole, when coronaries fill, and adds oxygen demand.",
+              "A fast rate lowers myocardial oxygen demand, so the pain is likely not cardiac.",
+              "A fast rate always raises the BP, so the pain is caused by the hypertension."
+            ],
+            "answer": 1,
+            "rationale": "Correct: The coronary arteries are perfused during diastole. A tachydysrhythmia shortens diastole, so coronary perfusion time drops, and the extra workload increases myocardial oxygen demand, so angina can follow. Incorrect: A fast rate shortens diastole; a slow one lengthens it. Fast rates raise oxygen demand; slow rates lower it. A fast rate may raise BP at first, but sustained, it lowers filling, stroke volume and BP.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A healthy 21-year-old student on telemetry has R to R intervals that vary with breathing. There is a P wave before every skinny QRS, and the rate is 80. What should the nurse do?",
+            "options": [
+              "Document it as an assessment finding; it comes from breathing and isn't treated.",
+              "Notify the provider for a beta blocker, since the R to R intervals are irregular.",
+              "Get a 12-lead EKG, since an irregular R to R interval means the client is in A-fib.",
+              "Place transcutaneous pacing pads in case the varying rate drops below 60."
+            ],
+            "answer": 0,
+            "rationale": "Correct: This is sinus arrhythmia: changes in intrathoracic pressure with breathing affect the SA node's firing. It is not a dysrhythmia at all, is seen in young healthy people, and is not treated; it is just an assessment finding. Incorrect: Irregular R to R with a P wave before every skinny QRS is not A-fib (A-fib has no P waves). A beta blocker treats nothing here. Pacing is for symptomatic bradycardia unresponsive to atropine.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's heart rate drops from 72 to 48 in sinus rhythm over the shift. Which findings in the chart could explain the slower rate? Select all that apply.",
+            "options": [
+              "A serum potassium level above the normal range",
+              "A digoxin level reported as toxic this morning",
+              "Bearing down hard with a bowel movement today",
+              "A new fever of 39.4 C (102.9 F) this afternoon",
+              "A hemoglobin well below the normal range today",
+              "A client report of severe pain at 9 out of 10"
+            ],
+            "answers": [
+              0,
+              1,
+              2
+            ],
+            "rationale": "Correct: Causes of sinus bradycardia include hyperkalemia (it slows depolarization), digoxin toxicity, and vagal stimulation such as the Valsalva maneuver (bearing down). Incorrect: Fever, anemia (not enough \"buses,\" so the heart speeds up to circulate them) and pain are causes of sinus tachycardia, not bradycardia.",
+            "topic": "Intro &amp; Sinus Dysrhythmias",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week3-atrial-dysrhythmias",
+      "label": "PAC, A-Fib, A-Flutter &amp; PSVT",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client two days after abdominal surgery has never had PACs. Over the last few hours the monitor shows PACs that are becoming more frequent. The client feels fine. What should the nurse do?",
+            "options": [
+              "Document them only, since PACs are benign in most people.",
+              "Check electrolytes and notify the provider of the change.",
+              "Prepare the client for synchronized cardioversion today.",
+              "Give adenosine by rapid IV push to stop the early beats."
+            ],
+            "answer": 1,
+            "rationale": "Correct: PACs are usually benign, but new-onset or increasing PACs in a hospital patient can be pathologic and a precursor to A-fib, so time can be of the essence. The nurse checks the electrolytes (especially magnesium, calcium and potassium) and lets the provider know, since medication may prevent the conversion. Incorrect: Documenting only treats a new, increasing pattern as benign. Cardioversion is for unstable tachydysrhythmias. Adenosine is for PSVT.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client develops new atrial fibrillation with a ventricular rate of 158. The BP is 118/74, the client is alert, and reports palpitations. Which order should the nurse carry out first?",
+            "options": [
+              "Prepare the client for synchronized cardioversion at 50 joules.",
+              "Start IV amiodarone to convert the rhythm before slowing the rate.",
+              "Defibrillate at 200 joules with the sync switch turned off.",
+              "Give the IV diltiazem bolus, then start the drip to slow the rate."
+            ],
+            "answer": 3,
+            "rationale": "Correct: The number one goal in A-fib is to control the ventricular rate. A stable but symptomatic client gets an IV calcium channel blocker (or beta blocker, digoxin or amiodarone), usually as a bolus and then a drip, so the level rises immediately. Incorrect: Synchronized cardioversion is for hemodynamically unstable clients. Rhythm control comes after rate control, which is the priority. Defibrillation is for pulseless V-tach and V-fib.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client in atrial flutter with a rapid ventricular rate becomes confused, with a BP of 74/40 and cool, clammy skin. What does the nurse anticipate?",
+            "options": [
+              "Synchronized cardioversion with the sync switch turned on",
+              "Defibrillation with the sync off, since the client is unstable",
+              "An oral metoprolol dose, then a BP recheck in about an hour",
+              "Coaching the client to bear down for 10 to 15 seconds now"
+            ],
+            "answer": 0,
+            "rationale": "Correct: A hemodynamically unstable client with a supraventricular tachydysrhythmia (the impulse starts above the ventricle) is cardioverted. A-flutter has an R wave, so the shock is synchronized with the sync switch on. Incorrect: Defibrillating a rhythm with an R wave risks firing on the wrong part of the QRS and triggering a life-threatening dysrhythmia. Rate-control drugs are for stable clients. Bearing down is a vagal maneuver for PSVT.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client has been in atrial fibrillation for 5 days and is scheduled for an elective cardioversion tomorrow. The medication record shows no anticoagulant, and no TEE is ordered. What is the nurse's concern?",
+            "options": [
+              "There is no concern, because the client's rate is already controlled.",
+              "Cardioversion works better after several days, once the atria stretch.",
+              "Clots may have formed, so anticoagulation and a TEE should be clarified.",
+              "The client needs an extra beta blocker dose the night before the procedure."
+            ],
+            "answer": 2,
+            "rationale": "Correct: With A-fib for more than 48 hours, clots can form in the atria. Anticoagulation is recommended for 4 to 6 weeks before cardioversion, and a TEE is done to make sure there are no clots; otherwise restoring a strong atrial kick can throw a clot to the brain and cause a stroke. Incorrect: Rate control does not remove clot risk. Nothing says longer A-fib makes cardioversion work better. An extra beta blocker does not address the clots.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse sees a strip with sawtooth-shaped waves between the QRS complexes, an atrial rate of about 250, and a mostly regular R to R interval. Which interpretation and concern are correct?",
+            "options": [
+              "Atrial fibrillation, so the main concern is a clot from quivering atria.",
+              "Atrial flutter, which still puts the client at risk of throwing emboli.",
+              "PSVT, which should stop on its own because the onset was so abrupt.",
+              "Atrial flutter, with no clot risk since its rhythm is mostly regular."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Sawtooth flutter (F) waves, an atrial rate around 250, and a usually regular R to R from a single ectopic focus describe atrial flutter, and like A-fib it carries a risk of emboli. Incorrect: A-fib has no organized waves (tiny irregular quivers), an atrial rate around 400, and an irregularly irregular R to R. PSVT does not have flutter waves. A regular R to R in flutter does not remove the embolus risk.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with A-fib is prescribed one of the newer anticoagulants. This morning's labs show a newly elevated creatinine. What should the nurse do?",
+            "options": [
+              "Give it as ordered, since these drugs need no routine lab monitoring.",
+              "Give vitamin K first, so the bleeding risk from the drug is reduced.",
+              "Change the client over to warfarin, which is safer for the kidneys.",
+              "Hold the dose and call the provider about the kidney function today."
+            ],
+            "answer": 3,
+            "rationale": "Correct: The newer anticoagulants are contraindicated with impaired renal function, which is why the creatinine is checked before giving them. Incorrect: Not needing routine lab testing is an advantage of some of them, but it does not override the renal contraindication. Vitamin K is the antidote for warfarin, not a pre-dose. Which anticoagulant to use is the provider's decision, not the nurse's.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client on telemetry suddenly goes into a tachycardia of 210 that started with a PAC. The client is alert with a BP of 112/70 and says, \"My heart is racing.\" What should the nurse do first?",
+            "options": [
+              "Coach the client to bear down for 10 to 15 seconds, then breathe.",
+              "Massage the client's carotid sinus while watching the monitor.",
+              "Give atropine 1 mg IV and recheck the heart rate in 3 to 5 minutes.",
+              "Prepare the client for synchronized cardioversion at 50 joules."
+            ],
+            "answer": 0,
+            "rationale": "Correct: PSVT starts abruptly, often with a PAC. In a stable client the most effective first step is a vagal maneuver: bear down like having a bowel movement for 10 to 15 seconds, enough that the neck veins distend, then resume breathing. Incorrect: Carotid sinus massage is provider only. Atropine speeds the heart rate; adenosine (the other A drug) slows it. Cardioversion is used if adenosine fails and the client becomes hemodynamically unstable.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Vagal maneuvers have not stopped a client's PSVT, and adenosine is ordered. Which plan for giving it is correct?",
+            "options": [
+              "Infuse it slowly over 5 minutes to avoid a sudden drop in heart rate.",
+              "Push it slowly, then wait 2 minutes before flushing the IV line.",
+              "Push it rapidly, flush with saline at once, warn of a brief pause.",
+              "Give it as an IM injection so the effect lasts longer than an hour."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Adenosine has an incredibly short half-life, so it is pushed very fast and followed immediately by a saline flush (often two syringes through a stopcock). Onset is 10 to 40 seconds and duration 1 to 2 minutes; the strip may show a brief pause (asystole), so warn the client. Incorrect: A slow infusion or a delayed flush lets the drug wear off before it works. Its duration is 1 to 2 minutes, not hours.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "During a synchronized cardioversion for A-fib, the client becomes pulseless and the monitor no longer shows any QRS complexes. What should the nurse do?",
+            "options": [
+              "Raise the joules and cardiovert again with the sync switch still on.",
+              "Give adenosine by rapid IV push with an immediate saline flush now.",
+              "Wait one minute to see whether the client's own rhythm comes back.",
+              "Turn the sync switch off and defibrillate the client right away now."
+            ],
+            "answer": 3,
+            "rationale": "Correct: If the patient becomes pulseless after cardioversion, the QRS has been lost, so the sync switch is turned off and the patient is defibrillated. Incorrect: With the sync on, the machine waits for a QRS that isn't there and won't fire. Adenosine is for PSVT. Waiting delays the needed shock in a pulseless client.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A stable client in A-fib is having an elective synchronized cardioversion. Which actions are appropriate? Select all that apply.",
+            "options": [
+              "Make sure the client has been sedated before the shock.",
+              "Turn on the sync switch so the shock lands on the R wave.",
+              "Confirm everyone is clear and no one is touching the bed.",
+              "Start at 200 joules, since higher energy works better.",
+              "Maintain the airway and give the client supplemental oxygen.",
+              "Turn the sync off so the shock fires the moment it's pushed."
+            ],
+            "answers": [
+              0,
+              1,
+              2,
+              4
+            ],
+            "rationale": "Correct: For a non-emergency cardioversion the client is sedated first; the sync switch is turned on so the countershock lands on the R wave; all personnel are clear and no one touches the bed; and the nurse maintains a patent airway with supplemental oxygen, plus vital signs, level of consciousness and rhythm monitoring. Incorrect: Cardioversion starts low, usually 50 to 100 joules, and increases if necessary. Turning the sync off is defibrillation; an unsynchronized shock on a rhythm with an R wave can trigger a life-threatening dysrhythmia.",
+            "topic": "PAC, A-Fib, A-Flutter &amp; PSVT",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week3-ventricular-dysrhythmias",
+      "label": "PVC, V-Tach &amp; V-Fib",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client admitted for pneumonia has a history of occasional PVCs that, per the chart, have looked the same for years. The rate and pattern today match the old strips, and the client feels fine. A new nurse wants to call a rapid response. What is the best guidance?",
+            "options": [
+              "Call the rapid response, since any PVC means V-tach is about to start.",
+              "Defibrillate now, before the PVCs have a chance to become V-fib.",
+              "Give atropine to speed the rate so the early beats are overridden.",
+              "Isolated, chronic PVCs can be benign; keep watching for any increase."
+            ],
+            "answer": 3,
+            "rationale": "Correct: An isolated PVC can be benign, and some patients always have a few as a chronic thing. What raises concern is PVCs that are new-onset or increasing in frequency, which the nurse would report. Incorrect: A stable, long-standing pattern is not a sign that V-tach is starting. Defibrillation is for pulseless V-tach and V-fib. Atropine treats symptomatic bradycardia.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's monitor shows a PVC every other beat, and the monitor rate reads 80. A nurse counting the radial pulse gets 40. How should this be interpreted?",
+            "options": [
+              "The monitor is miscounting the rate, so the strip is artifact.",
+              "The PVCs aren't perfusing, so only half of the beats reach the wrist.",
+              "The radial artery must be occluded, so check the pulse in the other arm.",
+              "The true rate is 80, so the radial count does not matter clinically."
+            ],
+            "answer": 1,
+            "rationale": "Correct: A PVC every other beat is bigeminy, and PVCs typically do not perfuse, so with bigeminy only every other beat is perfusing; a radial pulse of half the monitor rate fits that. It is also a pattern that raises concern for V-tach. Incorrect: The PVCs are real beats, not artifact. Nothing points to an occluded artery. The perfusing rate is what reaches the tissues, so the radial count matters.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients have new PVCs. Client A's PVCs all look the same. Client B's PVCs look different from each other: some point up and some point down. Which client's strip is more concerning, and why?",
+            "options": [
+              "Client A, since identical PVCs show the ventricle is firing too fast.",
+              "Neither, since PVCs of any shape are benign as long as they are isolated.",
+              "Client B, since these PVCs are coming from more than one irritable focus.",
+              "Client A, since identical PVCs mean the atria have stopped contracting."
+            ],
+            "answer": 2,
+            "rationale": "Correct: PVCs that look different (one goes up, another goes down) are multifocal: they come from more than one irritable focus in the ventricle, which \"makes me raise my eyebrows even further.\" Identical PVCs are unifocal, from the same focus. Incorrect: Unifocal PVCs are not the more concerning pattern. New PVCs need watching even if isolated. Atrial contraction is not what PVC shape tells you.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client on telemetry goes into ventricular tachycardia at a rate of 170. The client is awake, has a palpable pulse, and the BP is 96/60. What does the nurse anticipate?",
+            "options": [
+              "An antidysrhythmic like amiodarone, and checking and replacing electrolytes",
+              "Defibrillation at 200 joules with the sync switch off as soon as possible",
+              "Starting CPR right away, since V-tach means the client has no output at all",
+              "Adenosine by rapid IV push with an immediate saline flush through a stopcock"
+            ],
+            "answer": 0,
+            "rationale": "Correct: In V-tach the key question is whether the patient has a pulse. With a pulse the client is perfusing, so care includes an antidysrhythmic (beta blocker, calcium channel blocker or amiodarone) and checking electrolytes and replacing them immediately if they are out of range. Incorrect: Defibrillation and CPR are for pulseless V-tach and V-fib. Adenosine is for PSVT.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse finds a client unresponsive. The monitor shows ventricular tachycardia, and no pulse can be felt. What should the nurse do?",
+            "options": [
+              "Prepare synchronized cardioversion at 50 joules with the sync on.",
+              "Give IV amiodarone and recheck the pulse in about 5 minutes.",
+              "Draw electrolytes first, so any imbalance is known before acting.",
+              "Call a code, start CPR and defibrillate with the sync switch off."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Pulseless V-tach means no perfusion; it is cardiac arrest. The nurse calls a code, CPR and ACLS begin, and the patient is defibrillated with the sync button off. Incorrect: Synchronized cardioversion is for rhythms with a pulse and an R wave; the machine may not fire without a QRS to sync to. Amiodarone and electrolytes belong to V-tach with a pulse, not to an unresponsive, pulseless client.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "During a code for ventricular fibrillation, the nurse pushes the shock button on the defibrillator, but it does not fire. Which explanation is most likely?",
+            "options": [
+              "The energy is set too low, so the machine refuses to discharge at all.",
+              "The client must be sedated first, so the shock is being held back.",
+              "The sync is on, so it waits for a QRS complex that V-fib doesn't have.",
+              "The pads must be placed on the client's back before a shock can fire."
+            ],
+            "answer": 2,
+            "rationale": "Correct: With the sync button on, the machine senses QRSs and synchronizes the shock to them. V-fib has no QRSs, so a synced machine never fires; for defibrillation the sync is turned off, and then it fires whenever the button is pushed. Incorrect: Energy level and pad placement are not the reasons given. Sedation is for elective cardioversion; a V-fib patient is unconscious.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients need a shock. Client A is in atrial flutter and has become hemodynamically unstable. Client B is in ventricular fibrillation. Which plan is correct?",
+            "options": [
+              "A: sync on, sedate if time, start 50 to 100 joules. B: sync off, start at 200 joules.",
+              "A: sync off, start at 200 joules. B: sync on, sedate first, start at 50 to 100 joules.",
+              "A and B: sync on for both, since synchronizing makes every shock safer for clients.",
+              "A and B: sync off for both, since any unstable client should be defibrillated."
+            ],
+            "answer": 0,
+            "rationale": "Correct: A-flutter has an R wave, so client A gets synchronized cardioversion (sync on, sedated if there is time, starting around 50 to 100 joules and going up if needed; the range is 50 to 200). V-fib has no QRS and no cardiac output, so client B is defibrillated with the sync off, starting at 200 joules and going up to 360. Incorrect: The swapped plan defibrillates a rhythm with an R wave and syncs one without. A synced machine won't fire in V-fib, and an unsynced shock on a rhythm with an R wave can trigger a life-threatening dysrhythmia.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with new, frequent PVCs has a low magnesium level, a temperature of 38.6 C (101.5 F), and says they drank four energy drinks this morning. Which plan matches the lecture?",
+            "options": [
+              "Give lidocaine only, since the drug controls PVCs whatever the cause is.",
+              "Look for and fix the causes: the electrolyte, the fever and the stimulants.",
+              "Defibrillate now, since frequent PVCs are about to become ventricular fibrillation.",
+              "Take no action, since isolated PVCs in an awake client are always benign."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Causes of PVCs include stimulants, electrolyte imbalances, hypoxia, fever, exercise, emotional stress and cardiovascular disease, and the plan is to pinpoint the cause and fix it. New and frequent PVCs are also reported. Incorrect: Drugs such as lidocaine, beta blockers or amiodarone may be used for a tendency toward PVCs, but they don't replace fixing the cause. Defibrillation is for pulseless rhythms. New, frequent PVCs are not something to ignore.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client in ventricular tachycardia at a rate of 190 still has a pulse. The family asks why this rhythm is so dangerous when the heart is \"still beating.\" Which explanation is accurate?",
+            "options": [
+              "The atria are quivering, so clots form and can travel to the brain.",
+              "The rate is too slow, so the coronary arteries fill with too much blood.",
+              "Extra P waves block the impulse from ever reaching the ventricles.",
+              "The ventricles beat too fast to fill, so cardiac output drops sharply."
+            ],
+            "answer": 3,
+            "rationale": "Correct: In V-tach (150 to 200) the heart beats so fast that the ventricles don't have time to fill before firing again, causing a serious decrease in cardiac output, and untreated it can slip into V-fib. Incorrect: Quivering atria and clots describe A-fib. V-tach is fast, not slow. V-tach has no P waves at all.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse reviews telemetry for several clients during the shift. Which findings should the nurse report to the provider? Select all that apply.",
+            "options": [
+              "A new pattern of PVCs on every other beat",
+              "Long-standing PVCs that are unchanged",
+              "New PVCs with shapes that differ from each other",
+              "Three PVCs in a row on the most recent strip",
+              "Sinus arrhythmia in a healthy 20-year-old client",
+              "PVCs increasing in frequency over the shift"
+            ],
+            "answers": [
+              0,
+              2,
+              3,
+              5
+            ],
+            "rationale": "Correct: New PVCs, PVCs increasing in frequency, bigeminy (a PVC every other beat, a concern for V-tach), multifocal PVCs (more than one irritable focus) and three PVCs in a row (in theory, V-tach) all warrant letting the provider know. Incorrect: A chronic, unchanged PVC pattern can be benign. Sinus arrhythmia is a normal finding from breathing and is not treated.",
+            "topic": "PVC, V-Tach &amp; V-Fib",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week3-hf-pad-aaa-raynauds",
+      "label": "HF, PAD, AAA &amp; Raynaud's",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client with heart failure says, \"I wake up at night and have to sit straight up to catch my breath.\" Crackles are heard in both lung bases, and the ankles have no edema. Which interpretation fits these cues?",
+            "options": [
+              "Left-sided failure, with blood backing up into the pulmonary veins",
+              "Right-sided failure, with blood backing up into the venous system",
+              "Cor pulmonale, the type of failure caused by pulmonary hypertension",
+              "Right-sided failure, since there is no edema to suggest a left problem"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Paroxysmal nocturnal dyspnea (waking suddenly and having to sit up to breathe) and crackles are pulmonary cues, which come from left-sided failure: blood backs up into the left atrium and pulmonary veins. PND is a sign of advanced left-sided failure. Incorrect: Right-sided failure backs blood into the venous circulation (JVD, hepatomegaly, ascites, peripheral edema). Cor pulmonale is right-sided enlargement from pulmonary hypertension. No edema does not point to the right side; edema is a right-sided cue.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A male client with heart failure has jugular venous distention, right upper quadrant tenderness, a poor appetite with nausea, and painful scrotal swelling. His lungs are clear. A student says this must be cor pulmonale. How should the nurse respond?",
+            "options": [
+              "It is left-sided failure, since nausea is a pulmonary cue of congestion.",
+              "It is a GI problem, since heart failure doesn't cause nausea or poor appetite.",
+              "It fits right-sided failure; cor pulmonale is the kind from lung hypertension.",
+              "It is cor pulmonale, since every right-sided heart failure is called that."
+            ],
+            "answer": 2,
+            "rationale": "Correct: JVD, an enlarged, tender liver, nausea and poor appetite from the engorged GI tract, and scrotal edema are right-sided failure cues: blood backs up into the venous circulation. Cor pulmonale is a type of right failure caused by pulmonary hypertension (for example from COPD); right failure that results from left failure is not cor pulmonale. Incorrect: Nausea here comes from venous engorgement of the GI tract, not the lungs, and heart failure can cause it.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with chronic heart failure says, \"I weigh myself whenever I remember, sometimes at the gym and sometimes at home, usually after breakfast.\" What should the nurse teach?",
+            "options": [
+              "Weigh once a week at the gym, since that scale is the most accurate one.",
+              "Weigh at the same time each day, on the same scale, in similar clothing.",
+              "Measure the ankles instead, since swelling shows fluid better than weight.",
+              "Weigh only on days when the ankles look swollen or the shoes feel tight."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Daily weights should be done at the same time of day, on the same scale, in roughly the same clothing, because weight is the most consistent measure of fluid volume status. Incorrect: Weekly weights miss day-to-day fluid changes. Ankle size is not described as a better measure than weight. Weighing only when swelling appears defeats the purpose of daily monitoring.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with heart failure takes digoxin and a potassium-losing diuretic. Before the morning dose, the apical pulse counted for a full minute is 56. The client mentions seeing halos around lights and feeling nauseated. What should the nurse do?",
+            "options": [
+              "Give the dose, since nausea is a common side effect that will pass.",
+              "Give the dose, then recheck the apical pulse again in about an hour.",
+              "Give half the dose, since the rate is only a few beats under the limit.",
+              "Hold the dose and report it, since these cues suggest digitoxicity."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Digoxin is held when the apical rate, counted for a full minute, is below 60. Halos around lights, nausea and vomiting, and bradycardia are signs of digitoxicity, which hypokalemia (from a potassium-losing diuretic) makes worse; the antidote is Digibind. Incorrect: Nausea with halos and a slow rate is not a harmless side effect. Giving the dose and rechecking ignores the hold parameter. The nurse does not adjust the dose.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with acute decompensated heart failure is gasping for breath and has 4+ ankle edema. Which position should the nurse help the client into?",
+            "options": [
+              "Flat with the legs raised on pillows to move the fluid back",
+              "Trendelenburg, so blood returns to the heart and the BP comes up",
+              "High Fowler's, with the feet horizontal or dangling off the bed",
+              "Lying on the left side, flat, to take the pressure off the heart"
+            ],
+            "answer": 2,
+            "rationale": "Correct: The client with ADHF is most comfortable in high Fowler's with the feet horizontal or dangling off the bedside. This decreases venous return and preload and eases the heart's workload. Incorrect: Raising the legs or lying flat increases venous return and preload, which worsens the congestion and the work of breathing.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Doppler systolic pressures for a client with leg pain are: right arm 140, left arm 128, right ankle 98, left ankle 133. Which interpretation of the ankle brachial index is correct?",
+            "options": [
+              "Right leg: ABI 0.70, below 0.9, which points to arterial disease.",
+              "Left leg: ABI 1.04, found by dividing 133 by the left arm's 128.",
+              "Right leg: ABI 0.77, found by dividing 98 by the left arm's 128.",
+              "Neither leg: both ABIs are within the normal range of 0.9 to 1.3."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Each ankle is divided by the higher of the two arm pressures, here 140. Right: 98 divided by 140 is 0.70; left: 133 divided by 140 is 0.95. A normal ABI is 0.9 to 1.3, and below 0.9 points to occlusive arterial disease, so the right leg is the concern. Incorrect: Both other calculations use the lower arm pressure (128) instead of the higher one. The right leg's 0.70 is well below normal.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's legs turn pale when raised and dark red when dangling. The pedal pulses are absent, the skin is thin and shiny, and the client's calves cramp after walking one block. Which instruction fits these findings?",
+            "options": [
+              "Elevate the legs above the level of the heart several times a day.",
+              "Walk to the point of pain, stop and rest, then start walking again.",
+              "Wear compression stockings all day to help push the blood back up.",
+              "Keep the knees bent on pillows in bed to take the strain off the legs."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Pallor on elevation, dependent rubor, absent pulses, thin shiny skin and intermittent claudication describe PAD. Patients walk to the point of pain, rest, then resume, which builds collateral circulation. Incorrect: Elevating the legs and compression therapy promote venous return; they are treatments for venous insufficiency, and elevation makes PAD legs pale. The knee-flexed position impedes arterial flow and is avoided.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is on the first day after a femoral popliteal bypass. Which finding should the nurse report to the provider right away?",
+            "options": [
+              "The incision is tender when the dressing is changed.",
+              "The client asks to get up and walk in the hallway.",
+              "The toes are warm with brisk capillary refill.",
+              "The pedal pulse felt this morning is now absent."
+            ],
+            "answer": 3,
+            "rationale": "Correct: After a peripheral arterial procedure the nurse does a meticulous, trended peripheral vascular assessment and notifies the provider of a loss of pulse, a dramatic increase in pain, extreme pallor, or any change. Losing a pulse that was present suggests the graft is not perfusing. Incorrect: Some incision tenderness is expected; early ambulation is encouraged; warm toes with brisk refill show good perfusion.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client returns to the ICU after an endovascular repair of an abdominal aortic aneurysm. The BP is 182/96, the groin dressing is dry, and urine output is 45 mL in the last hour. What should the nurse do?",
+            "options": [
+              "Report the high BP, since pressure that is too high can blow the graft.",
+              "Help the client sit up and bend the leg to ease pain at the groin site.",
+              "Expect the high BP, which is needed to keep the new graft perfused.",
+              "Stop the hourly urine counts, since the dressing over the site is dry."
+            ],
+            "answer": 0,
+            "rationale": "Correct: After aneurysm repair the BP must be adequate but not too high, or it can blow the graft, so a BP of 182/96 is reported. Incorrect: After an endovascular repair the client is kept flat with the leg straight for a while, like after a cardiac cath. Good perfusion is wanted, but not an excessive pressure. Hourly urine output is monitored for renal perfusion, whatever the dressing looks like.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 22-year-old client with Raynaud's phenomenon asks how to manage it. Which statements belong in the nurse's teaching? Select all that apply.",
+            "options": [
+              "Wear layered clothing and also gloves when it is cold outside.",
+              "Put your hands in warm water to help ease the vessel spasms.",
+              "Cutting back on caffeine and tobacco may help prevent attacks.",
+              "Hold an ice pack on the fingers until the color comes back.",
+              "The calcium channel blocker is mainly to lower your blood pressure.",
+              "Throbbing and tingling as the color returns is part of the attack."
+            ],
+            "answers": [
+              0,
+              1,
+              2,
+              5
+            ],
+            "rationale": "Correct: Management includes layered clothing and gloves, avoiding extreme temperatures, immersing the hands in warm water to decrease the spasms, and avoiding triggers (cold, emotional stress, tobacco, caffeine). An attack is cold and numb, followed by throbbing, aching and tingling as perfusion returns. Incorrect: Cold is a trigger, so an ice pack worsens it. A slow-release calcium channel blocker is first-line for severe Raynaud's, but it is for the vessel spasms, not to lower BP.",
+            "topic": "HF, PAD, AAA &amp; Raynaud's",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week3-cvi-vte",
+      "label": "CVI &amp; VTE",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "Two clients have leg swelling. Client A has edema in both lower legs with brownish, leathery skin and itching. Client B's right calf is larger than the left, warm, reddened and tender, with a temperature of 37.9 C (100.2 F). Which client should the nurse assess first, and why?",
+            "options": [
+              "Client A, since bilateral edema points to a blood clot in both legs.",
+              "Client A, since itching shows a venous ulcer is about to become infected.",
+              "Client B, since one swollen, warm, tender leg suggests a VTE.",
+              "Client B, since a low-grade fever is a classic sign of PAD."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Unilateral leg edema with warmth, redness, tenderness and a low-grade temp from inflammation are VTE cues, and its most serious complication is a pulmonary embolism. Incorrect: Bilateral edema is unlikely to be a clot and fits venous insufficiency, which is client A's picture (brownish leathery skin, eczema with itching). Fever is not a PAD sign.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with chronic venous insufficiency and a painful venous ulcer on the lower leg likes to sit with the legs dangling off the bed. The client asks if that helps. How should the nurse respond?",
+            "options": [
+              "Yes, dangling increases arterial flow and helps the ulcer heal.",
+              "No, raising the legs above the heart helps return and eases swelling.",
+              "Yes, keeping the legs down brings more blood flow to the ulcer area.",
+              "No, the legs should stay flat, since raising them makes them turn pale."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Venous ulcers are painful and worse when dependent. Elevating the legs above the level of the heart promotes venous return and helps decrease swelling. Incorrect: Dangling is dependent positioning, which worsens venous pooling and ulcer pain. Legs turning pale on elevation is a PAD finding, not a reason to avoid elevation in venous disease.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with chronic venous insufficiency has been using sequential compression devices (SCDs). Today an ultrasound confirms a new thrombus in the left leg. What should the nurse do about the SCDs?",
+            "options": [
+              "Hold both SCDs and check with the provider, since they can move the clot.",
+              "Keep both SCDs on, since compression is the treatment for venous disease.",
+              "Turn up the SCD pressure on the left leg to help break the clot apart.",
+              "Move both SCDs onto the right leg, so the left leg can rest and heal."
+            ],
+            "answer": 0,
+            "rationale": "Correct: SCDs are used for venous insufficiency, but they are typically not recommended once a VTE (an embolus or thrombus) is present, because they can help move the clot. Incorrect: Continuing or increasing compression risks moving the clot. Nothing supports moving both devices to the other leg.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse reviews four clients. Which client has the most risk factors for a venous thromboembolism?",
+            "options": [
+              "A 30-year-old who walks every day and drinks plenty of fluids",
+              "A 42-year-old who drives 30 minutes to work and back home each day",
+              "A 25-year-old with Raynaud's phenomenon who works outdoors",
+              "A smoker on oral contraceptives on bed rest after a hip fracture"
+            ],
+            "answer": 3,
+            "rationale": "Correct: That client has risk factors from all three categories: venous stasis (bed rest, a fractured limb), endothelial damage (a fracture of the hip), and hypercoagulability (oral contraceptives and tobacco use). Incorrect: Daily walking and good hydration lower risk. A short commute is not a long trip without exercise. Raynaud's is an arterial vasospasm, not a VTE risk factor.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with a venous leg ulcer says, \"I'm going to cut way back on calories and protein so I lose weight and take pressure off my legs.\" What should the nurse explain?",
+            "options": [
+              "That's a good plan, since less body weight helps the ulcer close faster.",
+              "A high-calorie, high-protein diet is what helps the skin heal right now.",
+              "Protein should be cut, but calories should stay the same as they are now.",
+              "Diet doesn't affect ulcers, so only the compression therapy matters here."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Patients with chronic venous insufficiency need a high-calorie, high-protein diet for skin healing. Incorrect: Cutting calories and protein works against healing. Diet does matter; it is listed in the collaborative care alongside elevation, walking, foot and leg care and compression.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client newly diagnosed with a DVT says, \"I guess I have to stay flat in bed until this clot is gone.\" Which response is accurate?",
+            "options": [
+              "Yes, strict bed rest keeps the clot from moving until it dissolves.",
+              "Yes, and keep the legs completely still so the clot cannot travel.",
+              "Moving early is encouraged; in bed, flex your feet, knees and hips.",
+              "Turn yourself about every 8 hours, but otherwise stay in bed."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Patients with clots used to be kept in bed, but early and aggressive mobilization is now encouraged. While in bed, flexing and extending the feet, hips and knees every 2 to 4 hours while awake mimics the skeletal muscle pump. Incorrect: Bed rest and keeping the legs still are risk factors for venous stasis. If not mobilizing, the client is turned every 2 hours, not every 8.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with a VTE is starting anticoagulation. Which statement shows the client understands the teaching?",
+            "options": [
+              "Once I'm on this medicine, I can't get another clot.",
+              "I can stop the medicine as soon as my leg looks normal.",
+              "This medicine dissolves the clot, so I don't need to move around.",
+              "This medicine is important, but it raises my bleeding risk."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Anticoagulation is very important in VTE care, but it puts the client at risk for bleeding, which the client should understand. Incorrect: Recurrent VTEs happen (some patients need a vena cava filter for them). The lecture does not tie stopping the drug to how the leg looks. Early mobilization is still part of care.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A dehydrated client with a pelvic fracture is receiving a hypertonic IV fluid through a peripheral line. Which VTE factors does this client have?",
+            "options": [
+              "Hypercoagulability from dehydration; endothelial damage from fluid and fracture",
+              "Venous stasis only, since the pelvic fracture keeps the client immobile in bed",
+              "Endothelial damage only, since dehydration has no effect on how the blood clots",
+              "Hypercoagulability only, since fractures and IV fluids are not VTE risk factors"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Dehydration is a hypercoagulability risk factor (modified by encouraging fluids), and caustic or hypertonic IV fluids and fractures of the pelvis, hip or leg cause endothelial damage. Incorrect: The fracture is listed under endothelial damage, and bed rest from it would add stasis, but stasis is not the only factor. Dehydration does affect clotting. Fractures and hypertonic IV fluids are VTE risk factors.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who has had several VTEs is scheduled for a vena cava (Greenfield) filter. The client says, \"So after this I won't get blood clots anymore.\" How should the nurse respond?",
+            "options": [
+              "Right, the vena cava filter stops the blood from forming new clots.",
+              "Clots may still form, but the vena cava filter is there to catch them.",
+              "Right, the filter dissolves clots, so you can stop the anticoagulant now.",
+              "The filter goes in the leg vein itself, so a clot can't form there again."
+            ],
+            "answer": 1,
+            "rationale": "Correct: A vena cava (Greenfield) filter is a little cage placed in the inferior vena cava for patients with recurrent VTEs. The patient can still throw a clot; the clot gets caught in the cage. Incorrect: The filter does not prevent clot formation or dissolve clots. It goes in the inferior vena cava, not the leg vein.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client has chronic venous insufficiency without arterial disease. Which findings does the nurse expect? Select all that apply.",
+            "options": [
+              "Pitting edema in both of the lower legs",
+              "Brownish, leathery skin on the lower legs",
+              "Eczema with itching on the lower leg skin",
+              "Absent pedal pulses in both of the feet",
+              "Dark red color when the legs are dangling",
+              "An ulcer on the toes with little exudate"
+            ],
+            "answers": [
+              0,
+              1,
+              2
+            ],
+            "rationale": "Correct: Chronic venous insufficiency causes edema (pitting), lipodermatosclerosis (thick, leathery skin with a brownish, brawny discoloration), and eczema with itching. Incorrect: Absent or weak pulses, dependent rubor, and ulcers around the toes with little or no exudate are arterial (PAD) findings.",
+            "topic": "CVI &amp; VTE",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
       "id": "medsurg1-week1-respiratory",
       "label": "Med Surg I Wk 1: Respiratory",
       "sets": {
@@ -2289,6 +3027,11 @@ window.QUIZ_BANK = {
     "Eye Disorders",
     "Prostate &amp; BPH",
     "STDs",
+    "Intro &amp; Sinus Dysrhythmias",
+    "PAC, A-Fib, A-Flutter &amp; PSVT",
+    "PVC, V-Tach &amp; V-Fib",
+    "HF, PAD, AAA &amp; Raynaud's",
+    "CVI &amp; VTE",
     "Med Surg I Wk 1: Respiratory",
     "Med Surg I Wk 2: Hematology",
     "Med Surg I Wk 3: Periop, Fluids &amp; Electrolytes",
