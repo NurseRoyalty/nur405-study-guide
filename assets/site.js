@@ -68,6 +68,18 @@ const SITE = {
       ]
     },
     {
+      label: "Week 3",
+      items: [
+        { id: "week3-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week3-comprehensive-study-guide.html" },
+        { id: "week3-intro-sinus-dysrhythmias", num: "2", title: "Intro &amp; Sinus Dysrhythmias", file: "week3-intro-sinus-dysrhythmias.html" },
+        { id: "week3-atrial-dysrhythmias", num: "3", title: "PAC, A-Fib, A-Flutter &amp; PSVT", file: "week3-atrial-dysrhythmias.html" },
+        { id: "week3-ventricular-dysrhythmias", num: "4", title: "PVC, V-Tach &amp; V-Fib", file: "week3-ventricular-dysrhythmias.html" },
+        { id: "week3-hf-pad-aaa-raynauds", num: "5", title: "HF, PAD, AAA &amp; Raynaud's", file: "week3-hf-pad-aaa-raynauds.html" },
+        { id: "week3-cvi-vte", num: "6", title: "CVI &amp; VTE", file: "week3-cvi-vte.html" },
+        { id: "week3-big-picture-overview", num: "7", title: "Big Picture Overview", file: "week3-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Med Surg I Review",
       items: [
         { id: "medsurg1-week1-respiratory", num: "1", title: "Week 1: Respiratory", file: "medsurg1-week1-respiratory.html" },
