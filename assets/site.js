@@ -117,6 +117,7 @@ const SITE = {
       label: "Jeopardy Games",
       items: [
         { id: "exam1-jeopardy", num: "1", title: "Exam 1 Jeopardy — 3 Player Game", file: "exam1-jeopardy.html" },
+        { id: "exam2-jeopardy", num: "2", title: "Exam 2 Jeopardy — 3 Player Game", file: "exam2-jeopardy.html" },
       ]
     },
     /* ---- ADD WHEN YOU BUILD THEM: the Jeopardy group ----
