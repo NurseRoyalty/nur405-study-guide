@@ -92,6 +92,16 @@ const SITE = {
       ]
     },
     {
+      label: "Week 5",
+      items: [
+        { id: "week5-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week5-comprehensive-study-guide.html" },
+        { id: "week5-fractures-devices-amputations", num: "2", title: "Fractures, Immobilization Devices &amp; Amputations", file: "week5-fractures-devices-amputations.html" },
+        { id: "week5-joint-surgeries-osteo-discs", num: "3", title: "Joint Surgeries, Osteomyelitis, Herniated Discs &amp; Osteoporosis", file: "week5-joint-surgeries-osteo-discs.html" },
+        { id: "week5-rheumatic-disorders", num: "4", title: "OA, RA, Gout &amp; SLE", file: "week5-rheumatic-disorders.html" },
+        { id: "week5-big-picture-overview", num: "5", title: "Big Picture Overview", file: "week5-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Med Surg I Review",
       items: [
         { id: "medsurg1-week1-respiratory", num: "1", title: "Week 1: Respiratory", file: "medsurg1-week1-respiratory.html" },

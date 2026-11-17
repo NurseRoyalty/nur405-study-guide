@@ -165,6 +165,15 @@ img{max-width:100%;}
      instead of overflowing the viewport on shorter screens */
   .dropdown{ max-height:calc(100vh - 90px); overflow-y:auto; }
 }
+/* With five weeks plus Med Surg I, Exam Prep and Jeopardy in the bar, the
+   desktop nav runs wider than a 1280px laptop screen. Tighten the spacing
+   below 1440px so it still fits on one line. */
+@media (min-width:900px) and (max-width:1439px){
+  .topnav__inner{ gap:14px; }
+  .toplink{ padding:9px 9px; }
+  .toplink::after{ left:9px; right:9px; }
+  .nav-utils{ margin-left:8px; }
+}
 .droplink{
   display:flex; align-items:center; gap:10px; padding:9px 11px; border-radius:8px;
   color:var(--text); text-decoration:none; font-size:.88rem;
