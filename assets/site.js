@@ -102,6 +102,17 @@ const SITE = {
       ]
     },
     {
+      label: "Week 6",
+      items: [
+        { id: "week6-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week6-comprehensive-study-guide.html" },
+        { id: "week6-neuro-labs-dx", num: "2", title: "Neuro Labs &amp; Dx", file: "week6-neuro-labs-dx.html" },
+        { id: "week6-parkinsons-mg-ms", num: "3", title: "Parkinson's, Myasthenia Gravis &amp; MS", file: "week6-parkinsons-mg-ms.html" },
+        { id: "week6-als-seizures-gbs", num: "4", title: "ALS, Seizure Disorders &amp; Guillain-Barré", file: "week6-als-seizures-gbs.html" },
+        { id: "week6-stroke-neuro-ir", num: "5", title: "Stroke (CVA) &amp; Neurointerventional Radiology", file: "week6-stroke-neuro-ir.html" },
+        { id: "week6-big-picture-overview", num: "6", title: "Big Picture Overview", file: "week6-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Med Surg I Review",
       items: [
         { id: "medsurg1-week1-respiratory", num: "1", title: "Week 1: Respiratory", file: "medsurg1-week1-respiratory.html" },
