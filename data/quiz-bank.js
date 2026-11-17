@@ -2733,6 +2733,450 @@ window.QUIZ_BANK = {
       }
     },
     {
+      "id": "week5-fractures-devices-amputations",
+      "label": "Fractures, Devices &amp; Amputations",
+      "week": 5,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A trauma client is scheduled for a CT scan with contrast today and an MRI of his knee ligaments tomorrow. He mentions an old metal rod in his thigh and asks why the nurse keeps offering him water after the CT. Which response addresses both tests?",
+            "options": [
+              "Fluids after the CT protect the kidneys from contrast; report the rod before the MRI.",
+              "Fluids after the CT keep the contrast in place; the rod matters only for the CT scan.",
+              "Fluids before the MRI flush out the magnet effect; the rod won't affect either test.",
+              "Fluids after the MRI wash out its contrast dye; the rod matters only for an x-ray."
+            ],
+            "answer": 0,
+            "rationale": "Correct: CT contrast carries a risk of nephrotoxicity, so fluids are encouraged afterward, and metal in the body is a contraindication to MRI, so the rod must be reported. Incorrect: Contrast is not held in place with fluids, and the MRI described here uses magnetic waves, not contrast; the metal concern belongs to the MRI, not the CT or x-ray.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Client A, age 82 with severe osteoporosis, fractured several ribs while coughing with pneumonia. Client B, a marathon runner, has a foot fracture after months of hard training with no fall. How should the nurse classify these fractures?",
+            "options": [
+              "Client A is a stress fracture; Client B is a pathologic fracture.",
+              "Client A is a pathologic fracture; Client B is a stress fracture.",
+              "Client A is a comminuted fracture; Client B is a greenstick fracture.",
+              "Client A is a greenstick fracture; Client B is a transverse fracture."
+            ],
+            "answer": 1,
+            "rationale": "Correct: A pathologic fracture happens when it normally wouldn't because of an underlying pathology such as osteoporosis (the lecture's example is ribs broken by coughing). A stress fracture comes from repetitive stress, as in an avid runner. Incorrect: Reversing them misreads the cause. Comminuted means shattered into fragments, and greenstick is a splintering break seen in young people whose bones aren't fully developed.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "At a soccer game, a player has an obviously deformed lower leg. He is alert, breathing normally and has no sign of a head injury. Which set of actions should the nurse take next?",
+            "options": [
+              "Pull the leg straight to realign it, then apply a heating pad to relax the muscle.",
+              "Lower the leg below the heart to improve circulation, then wrap it snugly with ice.",
+              "Splint it in normal alignment, immobilize and elevate it, and apply a cold pack.",
+              "Have him walk to the sideline to test the leg, then elevate it and apply heat."
+            ],
+            "answer": 2,
+            "rationale": "Correct: After airway, breathing, circulation and a head injury check, emergency care is to splint the fracture as quickly as possible in normal body alignment, immobilize it, elevate it if possible (venous return, less swelling) and apply cold (vasoconstriction decreases swelling). Incorrect: Putting fragments back in place is reduction, done in the ED or OR, not in the field; heat and a dependent position would increase the swelling.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's displaced wrist fracture was set in the ED with local anesthesia and no incision. Her roommate's ankle fracture required surgery with plates and screws. She asks why they were treated differently. Which explanation is accurate?",
+            "options": [
+              "Hers was an open reduction, which is preferred; her roommate had a closed reduction instead.",
+              "Both were closed reductions; only the roommate's needed internal fixation hardware.",
+              "Hers needed no reduction, since only a cast immobilizes; her roommate's was reduced.",
+              "Hers was a closed reduction, which is preferred; her roommate's was an open reduction."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Closed reduction is the preferred, non-surgical manual realignment without an incision, often in the ED with local anesthesia. An open reduction goes through an incision and is often coupled with internal fixation (nails, screws, plates): an ORIF. Incorrect: Calling the incision-free procedure open reverses the terms, and reduction (putting the fragments back in anatomic position) comes before immobilization, so her wrist was reduced.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Three hours after a new arm cast is applied, a client says the pain is getting worse even after his pain medication. His fingers are pink and warm with brisk capillary refill. He says, \"It's probably just tight.\" What is the nurse's best action?",
+            "options": [
+              "Reassure him that pink, warm fingers rule out a problem and recheck at the next round.",
+              "Notify the provider now, since pain unrelieved by medication is the first warning.",
+              "Lower the arm below heart level to bring more blood to the fingers and reassess later.",
+              "Give a second dose of pain medication and recheck the fingers again in four hours."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Of the 5 P's (pain, pallor, pulselessness, paresthesia, paralysis), pain increasing despite medication is the first sign. Swelling can rise under a cast that won't expand, so the provider is notified immediately; waiting for pallor or a lost pulse means you've missed the boat. Incorrect: Normal color and refill don't rule it out this early, and the limb is elevated above the heart in the first day or two, not lowered. Checks are hourly for 24 hours.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with a femur fracture needs traction for several weeks, and the provider wants about 35 lb of pull. Which type fits, and what is its main nursing concern?",
+            "options": [
+              "Buck's skin traction, since it is the simplest form; the concern is the patient sliding down.",
+              "Russell's skin traction, since it allows knee flexion; the concern is pressure from the skin wraps.",
+              "Skeletal traction, since it holds more weight and is tolerated better; the risk is osteomyelitis.",
+              "A pelvic collar, since it holds the most weight; the concern is respiratory compromise."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Skeletal traction uses a pin through the bone, carries much more weight (for example 35 lb for a femur) and is tolerated much better once in, but the broken skin brings impaired skin integrity and a risk of osteomyelitis. Incorrect: Buck's and Russell's are skin traction, limited to 5 to 10 lb and meant to be short term. A pelvic collar is skin traction for a pelvic fracture.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with an external fixator has thin, clear drainage at two pin sites and thick yellow drainage at a third. He asks the nurse to put antibiotic ointment on all of them. Which response is best?",
+            "options": [
+              "Clean all sites with full-strength peroxide and cover the yellow one with antibiotic ointment.",
+              "Apply ointment to every site, since the clear drainage is also an early sign of infection.",
+              "Leave all three sites alone, since drainage is expected with every external fixator pin.",
+              "Report the yellow site, clean with half-strength peroxide and a sterile swab, use no ointment."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Clear serous drainage is OK; purulent drainage likely means infection and is reported. Pin care is typically half-strength peroxide with a sterile swab, with no ointments or anything gooey (they attract bacteria), and the patient shouldn't touch the pins. Incorrect: Ointment is avoided at every site, serous drainage isn't a sign of infection, and purulent drainage can't simply be left alone.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients are 1 day after long bone fractures. Client A (femur) is newly confused and anxious with a respiratory rate of 28 and tiny red spots across the chest. Client B (tibia) has severe leg pain that two doses of IV opioid haven't touched, and the leg is tense. Which interpretation and treatment pair is correct?",
+            "options": [
+              "A: fat embolism, treated supportively with oxygen and fluids. B: compartment syndrome, relieved by a fasciotomy.",
+              "A: compartment syndrome, relieved by a fasciotomy. B: fat embolism, treated supportively with oxygen and fluids.",
+              "A: a VTE, treated with ice and elevation of the leg. B: expected fracture pain, treated with more opioid doses.",
+              "A: anxiety from the hospital stay, treated with rest. B: fat embolism, treated with a fasciotomy of the leg."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Fat embolism follows long bone fractures; neurologic changes often precede the pulmonary signs by 6 to 12 hours, with a petechial rash on the chest, and treatment is mainly supportive (oxygen, fluids). Compartment syndrome is an emergency whose classic cue is severe pain not fixed with opioids, relieved by a fasciotomy. Incorrect: Swapping them mismatches the cues, and pain unrelieved by opioids is never just expected fracture pain.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A week after a below-the-knee amputation, a client takes his compression bandage off at night because it's uncomfortable. He also says his missing foot is burning and asks, \"Am I losing my mind?\" Which response addresses both concerns?",
+            "options": [
+              "Night is the right time to remove it; the burning is imagined and will pass with reassurance.",
+              "Wrap it in a circular pattern at night only; the burning means the incision is infected.",
+              "Keep it on except for PT and bathing; the burning is real phantom pain that can be treated.",
+              "Keep it off until the incision heals; the burning means the bandage was wrapped too tight."
+            ],
+            "answer": 2,
+            "rationale": "Correct: The compression bandage shapes the limb for a prosthesis and promotes shrinkage, so it is worn at all times except PT and bathing, in a figure-eight wrap. Phantom limb pain is very real, is treated with neuropathic analgesics and mirror therapy, and usually lasts about a year. Incorrect: Calling the pain imagined dismisses a real complication, and a figure-eight (not circular) wrap is used so blood flow isn't restricted.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is 1 day after an above-the-knee amputation. Which nursing actions are appropriate? Select all that apply.",
+            "options": [
+              "Position the client prone for 30 minutes, 4 times a day",
+              "Keep the residual limb up on pillows around the clock to reduce swelling",
+              "Wrap the residual limb in a figure-eight compression bandage",
+              "Schedule pain medication around the clock",
+              "Remove the compression bandage at night so the skin can breathe",
+              "Slide a gloved hand under the residual limb when checking for bleeding"
+            ],
+            "answers": [
+              0,
+              2,
+              3,
+              5
+            ],
+            "rationale": "Correct: Prone positioning forces hip extension and helps prevent a hip flexion contracture, which is a special risk with an AKA. A figure-eight compression wrap shapes the limb without restricting blood flow. Around-the-clock dosing fits ongoing, predictable pain. Blood pools under the limb by gravity, so the nurse feels underneath it. Incorrect: Propping the limb on pillows flexes the hip (some providers don't allow it, especially early), and the bandage stays on at all times except PT and bathing.",
+            "topic": "Fractures, Devices &amp; Amputations",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week5-joint-surgeries-osteo-discs",
+      "label": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+      "week": 5,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "Two clients have bone imaging ordered. Client A is a 66-year-old woman with no symptoms who is due for osteoporosis screening. Client B has fever, night sweats and constant shin pain, and osteomyelitis is suspected. Which test fits each client?",
+            "options": [
+              "A: a DEXA scan for bone density. B: a bone scan, where infection shows increased uptake.",
+              "A: a bone scan with a radioisotope. B: a DEXA scan, where infection shows high density.",
+              "A: an EMG to test the bone density. B: a myelogram to look for infection in the bone.",
+              "A: a bone scan, where osteoporosis shows decreased uptake. B: a DEXA of the hip and wrist."
+            ],
+            "answer": 0,
+            "rationale": "Correct: A bone density (DEXA) scan measures bone mineral density at the spine, hips and wrist and is recommended for all women over 65. A bone scan uses a radioisotope; increased uptake is seen with osteomyelitis (and osteoporosis, malignancy and some fractures). Incorrect: The two scans are different tests and are easy to swap. Decreased uptake points to avascular necrosis, not osteoporosis, and an EMG and a myelogram test muscle and the spinal cord.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "An hour after a myelogram, a client is nauseated and says, \"I'd rather sit up in the chair and skip the fluids until my stomach settles.\" Which response is best?",
+            "options": [
+              "Sitting up is fine as long as he skips fluids, since the contrast is already out of his spine.",
+              "Stay lying flat for the ordered time to prevent a spinal headache, and push fluids as tolerated.",
+              "Sit up to prevent a spinal headache, and limit fluids so the contrast stays in the spinal canal.",
+              "Stay flat to protect the kidneys from the contrast, and avoid fluids until the nausea has passed."
+            ],
+            "answer": 1,
+            "rationale": "Correct: After a myelogram the patient lies flat for a period of time to prevent a spinal headache, and fluids are forced because of the contrast. Incorrect: Sitting up early is what risks the headache, and limiting fluids works against clearing the contrast. Lying flat is for the spinal headache, not for the kidneys.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with hyperparathyroidism and a client with renal disease both have calcium and phosphorus drawn. Which pattern does the nurse expect?",
+            "options": [
+              "Hyperparathyroidism: calcium high and phosphorus high. Renal disease: both low.",
+              "Hyperparathyroidism: calcium low and phosphorus high. Renal disease: calcium high, phosphorus low.",
+              "Hyperparathyroidism: calcium high and phosphorus low. Renal disease: calcium low, phosphorus high.",
+              "Hyperparathyroidism: calcium normal and phosphorus low. Renal disease: both normal values."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Calcium is high with hyperparathyroidism and low with renal disease and hypoparathyroidism, and phosphorus is inversely related to calcium, so it moves the opposite way in each. Incorrect: Calcium and phosphorus rising or falling together contradicts that inverse relationship, and reversing the calcium direction swaps the two causes.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client had a posterior-approach total hip replacement yesterday. Which action by the assistive personnel needs correction?",
+            "options": [
+              "Using an elevated seat on the toilet when helping the client to the bathroom",
+              "Keeping the abduction pillow between the client's legs when turning in bed",
+              "Reminding the client not to cross her ankles while she is sitting in the chair",
+              "Settling the client into a low, deep armchair so her knees rise above her hips"
+            ],
+            "answer": 3,
+            "rationale": "Correct: With a posterior approach the client must avoid flexion past 90 degrees, along with adduction and extreme internal rotation, until the joint is firm; a low chair with the knees above the hips flexes the hip past 90. Incorrect: An elevated toilet seat, an abduction pillow and avoiding crossed ankles all follow the posterior hip precautions.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with a fracture has an order for toe-touch weight bearing on the left leg. Using crutches, she is putting about half her weight on that leg. What should the nurse explain?",
+            "options": [
+              "Putting half her weight on it is fine, since toe-touch allows up to 50% of her weight.",
+              "Toe-touch means she may only balance on her toe; half her weight is partial bearing.",
+              "Toe-touch means as much weight as she can tolerate without too much strain or pain.",
+              "She must keep that foot off the floor completely, since toe-touch means no weight at all."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Toe-touch weight bearing means the client can balance on the toe. Partial weight bearing is about 30 to 50% of the weight, and the nurse knows (and double-checks) the mobility order. Incorrect: Up to 50% describes partial, not toe-touch. As much as tolerated is weight bearing as tolerated, and keeping the foot off the floor entirely is non-weight bearing.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "On day 1 after a total knee replacement, a client refuses the continuous passive motion (CPM) machine because it hurts. He also reports new pain and swelling in the calf of the operative leg. Which concern takes priority?",
+            "options": [
+              "The refusal of the CPM machine, since range of motion is the top priority after a knee replacement",
+              "The pain with CPM, since pain medication should come before any range of motion",
+              "The new calf findings, since VTE is the number one complication of a joint replacement",
+              "The swelling, since the original surgical dressing should be loosened by the nurse to relieve it"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Venous thromboembolism (DVT/PE) is the number one post-op complication of a joint replacement, from manipulation of the bone, so new calf pain and swelling must be reported first. Incorrect: Restoring ROM (the CPM machine) and pain control before ROM matter, but they don't outrank a possible clot. The original surgical dressing is removed only by the surgeon.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with diabetes and a chronic foot wound has had constant foot pain for 4 days that worsens when he walks and doesn't ease with rest. His WBC and ESR are elevated, but today's x-ray is normal. He says, \"So it's not a bone infection.\" How should the nurse respond?",
+            "options": [
+              "The normal x-ray rules out a bone infection, so the pain is likely from the wound.",
+              "A bone infection would hurt only at rest, so pain with walking points to a muscle strain instead.",
+              "His blood work is elevated only because of the diabetes, so the x-ray result is the deciding test.",
+              "An x-ray may not change until about 10 days in, so cultures or a biopsy may still be needed."
+            ],
+            "answer": 3,
+            "rationale": "Correct: In osteomyelitis, x-rays don't show changes until about 10 days after the infection starts. Constant bone pain that worsens with activity and isn't relieved by rest, a chronic wound, diabetes and an elevated WBC and ESR all fit, so cultures, a bone or tissue biopsy, a bone scan or an MRI may follow. Incorrect: An early normal x-ray doesn't rule it out, and osteomyelitis pain is not relieved by rest.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The day after a spinal fusion with an iliac crest bone graft, a client reports a new headache. The back dressing has a spot of clear, light-yellow drainage, and the hip donor site is sore. Which finding should the nurse report first?",
+            "options": [
+              "The headache plus the drainage on the dressing, which together suggest a CSF leak",
+              "The soreness at the iliac crest donor site, which suggests a graft infection",
+              "The headache alone, which suggests he hasn't been lying flat enough after surgery",
+              "The drainage alone, which is expected serous drainage after spinal surgery"
+            ],
+            "answer": 0,
+            "rationale": "Correct: After back surgery, a headache with clear, light-yellow drainage is the picture of a CSF leak. The donor site is monitored too, but soreness there is expected. Incorrect: Soreness alone isn't a sign of infection, and treating the headache or the drainage separately misses what the two cues mean together.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with osteoporosis says, \"I take my alendronate with my morning coffee and breakfast, then lie back down. I take my calcium at bedtime on an empty stomach.\" Which teaching is correct?",
+            "options": [
+              "Alendronate with food, then lie down after; calcium chewable on an empty stomach, with vitamin D.",
+              "Alendronate with coffee only, then stay upright; calcium at bedtime, since food blocks it.",
+              "Alendronate with water, empty stomach, upright 30 min; calcium chewable with food plus vitamin D.",
+              "Alendronate with water at bedtime, then lie flat; calcium with food in one large daily dose."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Alendronate is taken with water on an empty stomach, and the client stays upright for 30 minutes to prevent esophagitis. Calcium (carbonate or citrate) is recommended chewable and taken with food, always with vitamin D. Incorrect: Lying down after alendronate risks esophagitis, and mega doses of calcium are hard to absorb.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 70-year-old woman is being assessed for osteoporosis. Which findings from her history are risk factors? Select all that apply.",
+            "options": [
+              "She has taken prednisone for 4 months",
+              "She walks two miles a day around her neighborhood",
+              "She has a low body weight",
+              "She has smoked cigarettes for 40 years",
+              "Her mother had osteoporosis",
+              "She drinks a glass of milk with every meal"
+            ],
+            "answers": [
+              0,
+              2,
+              3,
+              4
+            ],
+            "rationale": "Correct: Steroids for 3 months or more, low body weight, cigarettes and a family history are all osteoporosis risk factors (along with age, low calcium intake, lack of load-bearing exercise and excess alcohol). Incorrect: Walking is load-bearing exercise, which protects bone; it's the lack of it that is a risk factor. Milk with meals adds calcium, and a diet low in calcium is the risk.",
+            "topic": "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week5-rheumatic-disorders",
+      "label": "OA, RA, Gout &amp; SLE",
+      "week": 5,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "Client A, a 28-year-old woman with a facial rash and joint pain, has a positive ANA. Client B, age 35, has 8 weeks of symmetric hand swelling and a negative rheumatoid factor. Which additional test would be most useful for each?",
+            "options": [
+              "A: anti-DNA antibody, most specific for lupus. B: ACPA (anti-CCP), more specific than RF.",
+              "A: rheumatoid factor, most specific for lupus. B: ANA, which confirms RA on its own.",
+              "A: serum uric acid, the best test for joint pain. B: anti-DNA antibody, which is specific to RA.",
+              "A: ACPA (anti-CCP), the most specific test for lupus. B: anti-DNA, more specific than the RF."
+            ],
+            "answer": 0,
+            "rationale": "Correct: ANA is positive in virtually all lupus but can also be positive in RA; the anti-DNA antibody is the most specific test for lupus. RF is not specific to RA and can be negative, while ACPA (anti-CCP) is more specific and may be positive early. Incorrect: RF isn't a lupus test, uric acid points to gout, and anti-DNA belongs to lupus, not RA.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 68-year-old has knee pain that is worse by evening and better with rest, crepitus, and morning stiffness that eases in about 10 minutes. There are hard nodes at the finger tip joints, the ESR is normal and he has no fatigue or weight loss. Which condition best fits?",
+            "options": [
+              "Early rheumatoid arthritis of the hands",
+              "Osteoarthritis of the knee and hands",
+              "Acute gouty arthritis of the knee",
+              "Systemic lupus erythematosus, mild"
+            ],
+            "answer": 1,
+            "rationale": "Correct: OA pain worsens with use and is initially relieved by rest; morning stiffness resolves quickly; crepitus and Heberden's nodes at the DIP joints are typical; there are no systemic signs and the ESR is normal unless there's synovial inflammation. Incorrect: RA brings prolonged morning stiffness, systemic fatigue and weight loss and an elevated ESR and CRP. Gout is an intensely painful, red joint (usually the great toe), and lupus is multisystem.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with OA takes 1,000 mg of acetaminophen four times a day plus an over-the-counter cold medicine that also contains acetaminophen. He asks whether prednisone pills would work better. Which response is correct?",
+            "options": [
+              "His acetaminophen is within limits; prednisone pills are a good choice when acetaminophen fails.",
+              "Acetaminophen has no daily limit when used for arthritis; prednisone would be given by injection.",
+              "He's over the 3 g daily limit and risks liver damage; systemic steroids aren't given for OA at all.",
+              "He's over the limit and risks kidney damage; prednisone pills would replace acetaminophen for OA pain."
+            ],
+            "answer": 2,
+            "rationale": "Correct: 3 g daily is the acetaminophen limit (4 g only if limited duration and medically supervised), and it is hepatotoxic; 4 g a day plus a cold medicine is over. Systemic steroids are not given for OA. Incorrect: Nephrotoxicity belongs to NSAIDs, not acetaminophen. Steroid joint injections are an option when nothing else works, but they are not pills and are limited to 3 or 4 a year.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with OA has taken naproxen daily for months. Her creatinine is rising, and she reports a burning upper stomach pain. Which interpretation fits these findings?",
+            "options": [
+              "Both are expected arthritis symptoms, so the naproxen dose should be increased.",
+              "The creatinine reflects the OA itself, and the stomach pain is from the acetaminophen.",
+              "Both suggest she needs systemic steroids in place of the naproxen to protect her organs.",
+              "Both may be NSAID adverse effects (kidney injury, ulcer), so the provider is notified."
+            ],
+            "answer": 3,
+            "rationale": "Correct: NSAIDs are nephrotoxic and cause ulcers (and increased bleeding times), so monitoring the kidneys and GI side effects is required, and both findings are reported. A COX-2 inhibitor such as celecoxib may be considered for GI side effects. Incorrect: These are not OA symptoms; OA is local with no systemic signs. Systemic steroids aren't used for OA.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client newly diagnosed with RA stopped her methotrexate after 2 weeks because \"it isn't doing anything,\" and plans to rely on ibuprofen since it helps her pain. Which response is best?",
+            "options": [
+              "Ibuprofen alone is enough, since NSAIDs prevent long-term joint damage just as well as DMARDs.",
+              "Methotrexate takes 4 to 6 weeks and works best started early; NSAIDs don't prevent damage.",
+              "Methotrexate works within days, so 2 weeks with no change means she needs a stronger drug.",
+              "She should switch to daily prednisone, since steroids are the long-term cornerstone of RA."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Time is of the essence with RA: DMARDs reduce inflammation and prevent joint damage, and methotrexate improves symptoms in 4 to 6 weeks but is much less effective if delayed. NSAIDs give quicker pain relief but don't reduce long-term damage. Incorrect: Methotrexate doesn't work within days, and steroids are used short term, early, at the lowest dose for the shortest time.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "During an RA flare, a client plans to \"stay in bed all week and sleep on a heating pad every night.\" Which teaching best fits RA care?",
+            "options": [
+              "Bed rest is best until the flare ends, and heat can be used as long as it feels comfortable.",
+              "Rest only at night; skip naps, which worsen stiffness, and use ice alone for the flare.",
+              "Exercise through the pain every day to prevent stiffness, and avoid both heat and cold.",
+              "Rest the inflamed joints but keep moving, and alternate heat and cold, 20 minutes or less."
+            ],
+            "answer": 3,
+            "rationale": "Correct: RA care balances resting inflamed joints with maintaining fitness (8 to 10 hours of sleep plus a nap, regular exercise such as swimming), and heat and cold are most effective alternating, limited to 20 minutes or less. Incorrect: A week of bed rest and all-night heat break both rules, and naps are part of the plan.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client started allopurinol a week ago for recurrent gout. Last night his great toe became red, hot and swollen, and even the sheet hurts. He wants to double his allopurinol. What should the nurse explain?",
+            "options": [
+              "Allopurinol prevents flares over 2 to 6 weeks; an acute flare is treated with colchicine.",
+              "Doubling the allopurinol is right, since it gives dramatic relief of a flare within a day.",
+              "Colchicine prevents future flares, while allopurinol is the drug for the acute flare tonight.",
+              "Stop the allopurinol, since a flare during the first week proves it isn't the right drug."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Allopurinol is prophylactic for recurrent flares and takes 2 to 6 weeks to decrease them. An acute attack is treated with colchicine (usually dramatic relief within a day) or NSAIDs, plus a tent to keep the sheets off the toes and encouraged fluids. Incorrect: The roles of colchicine and allopurinol are reversed in the distractors, and an early flare doesn't mean allopurinol has failed.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with gout has an elevated serum uric acid, and the provider orders a 24-hour urine for uric acid. The client asks, \"Why both? And why not just stick a needle in my toe?\" Which explanation is accurate?",
+            "options": [
+              "The 24-hour urine is the gold standard; joint aspiration is no longer used to diagnose gout.",
+              "The urine shows under-excretion vs overproduction; aspiration is the gold standard but often skipped.",
+              "The urine confirms the diagnosis, since serum uric acid is high only in gout; aspiration is never needed.",
+              "The urine checks for kidney stones only; aspiration is done on every client with gout."
+            ],
+            "answer": 1,
+            "rationale": "Correct: A 24-hour urine for uric acid shows whether the problem is decreased renal excretion or overproduction. Synovial fluid aspiration (needle-like crystals) is the gold standard, but 80% are diagnosed without it. Serum uric acid is increased with gout but is not specific to gout. Incorrect: The urine isn't the gold standard, and aspiration isn't done on every client.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is reviewing four findings in a client with SLE who is on hydroxychloroquine. Which finding needs follow-up first?",
+            "options": [
+              "A butterfly rash across the cheeks after a day at the beach",
+              "Patchy hair loss that is upsetting her body image",
+              "A rising creatinine with a urine output of 15 mL an hour",
+              "Joint aches that move from one joint to another this week"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Lupus nephritis develops in about 4 in 10 within 5 years; rising BUN and creatinine and falling urine output signal kidney involvement, the organ-threatening finding. Incorrect: Photosensitivity with a butterfly rash, patchy hair loss and migrating polyarthralgia are common lupus cues that need teaching and support, but they don't threaten an organ.",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is teaching a client with systemic lupus erythematosus. Which statements show understanding? Select all that apply.",
+            "options": [
+              "\"Once this rash fades, the lupus will be gone from my body for good.\"",
+              "\"I'll check my temperature daily to catch a flare early.\"",
+              "\"I'll use sun protection and avoid long hours in the sun.\"",
+              "\"I can stop my prednisone on my own once I feel better.\"",
+              "\"I'll talk with my provider before I try to get pregnant.\"",
+              "\"I'll avoid sick people, since infections can trigger flares.\""
+            ],
+            "answers": [
+              1,
+              2,
+              4,
+              5
+            ],
+            "rationale": "Correct: An unexplained fever can signal an exacerbation, so a daily temperature helps; sunlight is a trigger; pregnancy counseling comes before pregnancy; and infections cause flares, made worse by a low WBC. Incorrect: Lupus doesn't go away, and drugs are never stopped abruptly (prednisone is tapered under the provider's direction).",
+            "topic": "OA, RA, Gout &amp; SLE",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
       "id": "medsurg1-week1-respiratory",
       "label": "Med Surg I Wk 1: Respiratory",
       "sets": {
@@ -3775,6 +4219,9 @@ window.QUIZ_BANK = {
     "Adrenal Disorders",
     "Thyroid Disorders",
     "DM: Patho, Pharm &amp; Nursing Care",
+    "Fractures, Devices &amp; Amputations",
+    "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
+    "OA, RA, Gout &amp; SLE",
     "Med Surg I Wk 1: Respiratory",
     "Med Surg I Wk 2: Hematology",
     "Med Surg I Wk 3: Periop, Fluids &amp; Electrolytes",
