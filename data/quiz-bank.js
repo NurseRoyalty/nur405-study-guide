@@ -3177,6 +3177,598 @@ window.QUIZ_BANK = {
       }
     },
     {
+      "id": "week6-neuro-labs-dx",
+      "label": "Neuro Labs &amp; Dx",
+      "week": 6,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client with a new headache is scheduled for a CT of the head with contrast. Which pre-procedure assessment set is the priority?",
+            "options": [
+              "Contrast allergies, the need for an IV, and the client's kidney status",
+              "Metal on the body, claustrophobia, and the loud ticking noises to expect",
+              "Stimulants in the last 8 hours, hair washing, and bedside setup",
+              "An empty bladder, a signed consent, and the fetal position on the side"
+            ],
+            "answer": 0,
+            "rationale": "Correct: When a CT uses contrast, the nurse checks the client for allergies, explains the need for an IV and knows the kidney status. Incorrect: Metal is the MRI concern. Holding stimulants for 8 hours belongs to the EEG, and emptying the bladder and the fetal position belong to the lumbar puncture.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with early Parkinson's symptoms already had a normal MRI of the brain, and now a PET scan is ordered. He asks, \"Didn't the MRI already show everything?\" Which explanation is accurate?",
+            "options": [
+              "The PET uses magnets for more anatomic detail, so it shows the brain structures better than the MRI.",
+              "The MRI shows anatomy; the PET uses a radiotracer to show how the brain is working (its metabolism).",
+              "The PET is a repeat of the MRI, done with contrast, so the radiologist can see the blood vessels.",
+              "The PET measures electrical activity like an EKG does for the heart, so it detects seizure activity."
+            ],
+            "answer": 1,
+            "rationale": "Correct: The MRI is the most anatomically detailed scan, but a PET scan, a nuclear medicine procedure with a small injected radiotracer, evaluates the organ's metabolism: physiology rather than anatomy. Different uptake patterns can help diagnose Parkinson's disease. Incorrect: Magnets are the MRI. Measuring electrical activity is the EEG (the EEG is to the brain as the EKG is to the heart).",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with dizzy spells and a history of atherosclerosis has a carotid duplex. The report notes a markedly increased blood velocity in the left carotid. How should the nurse interpret this?",
+            "options": [
+              "The faster flow means the artery is widely open, which lowers the stroke risk on that side of the neck.",
+              "Increased velocity is expected with age, so no follow-up is needed for this finding.",
+              "The faster flow suggests a narrowing (stenosis), which places the client at risk for stroke.",
+              "Increased velocity means a clot has completely blocked the artery, causing a stroke now."
+            ],
+            "answer": 2,
+            "rationale": "Correct: The carotid duplex combines ultrasound with pulsed Doppler; the ultrasound frequency corresponds to blood velocity, and increased velocity implies stenosis as blood speeds through the narrowed area, a concern for stroke. Incorrect: Faster flow doesn't mean a wider vessel, and the test finds narrowing, not a complete blockage or an age-related normal.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client scheduled for an EEG in one hour drank two energy drinks and a large coffee about two hours ago. She is also nervous because she thinks the test will hurt. What should the nurse do?",
+            "options": [
+              "Proceed on time, since caffeine only matters for a CT; reassure her the needles are small.",
+              "Proceed on time, since stimulants improve EEG readings; reassure her it takes several hours.",
+              "Give a sedative to calm her down, since anxiety will block the EEG from reading activity.",
+              "Report the stimulants, since they are held for 8 hours; reassure her the EEG is painless."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Stimulants are withheld for 8 hours before an EEG so artificial stimulants don't add activity, so the timing must be reported. The EEG is noninvasive and painless and usually lasts 20 to 40 minutes. Incorrect: Needles belong to the EMG, not the EEG, and stimulants don't improve the reading; giving a sedative is not part of the EEG preparation taught.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with seizures that haven't responded to traditional therapy is admitted to the epilepsy monitoring unit. His wife is upset: \"They stopped all his seizure medicine. Do they want him to have a seizure?\" How should the nurse respond?",
+            "options": [
+              "No, his medicines were stopped by mistake, so the nurse will restart them right away.",
+              "Yes, recording a seizure on continuous EEG shows its location and severity, in a controlled setting.",
+              "Yes, a seizure is needed so his blood levels of the drug can be drawn during the event.",
+              "No, the medicine was stopped only so the EEG wires can be attached to his scalp without any problems."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Patients with intractable seizures are admitted to the epilepsy monitoring unit off their seizure medications and on a continuous EEG, in the hope that a seizure occurs there so its location and severity can be recorded, like a cardiac EP study done in a controlled environment. Incorrect: Stopping the medications is deliberate, not an error, and the goal is the EEG recording, not drug levels or easier wire placement.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Client A has blurred vision and new balance problems, and multiple sclerosis is suspected. Client B has a drooping eyelid that worsens through the day, and myasthenia gravis is suspected. Which test fits each client?",
+            "options": [
+              "A: repetitive nerve stimulation. B: a visual evoked potential with the checkerboard.",
+              "A: an EEG for electrical activity. B: a carotid duplex to check the flow to the eyes.",
+              "A: a visual evoked potential with the checkerboard. B: repetitive nerve stimulation.",
+              "A: a PET scan of the heart. B: a lumbar puncture to check the spinal fluid protein."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Evoked potential testing, including the visual test where the patient watches a checkerboard and a moving red dot, helps diagnose MS, which has visual implications. Repetitive nerve stimulation (and single fiber EMG) is done for myasthenia gravis. Incorrect: The swapped answer reverses the tests, and an EEG, a carotid duplex and a cardiac PET aren't the tests named for these disorders.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is preparing a client for a lumbar puncture. Which action is correct?",
+            "options": [
+              "Have the client keep a full bladder so the spinal space is easier to reach",
+              "Position the client flat on the back with the legs straight and arms at the sides",
+              "Skip the consent, since a lumbar puncture is a bedside test and not a procedure",
+              "Have the client empty the bladder, then curl on one side in a fetal position"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Emptying the bladder makes the abdomen smaller and the client more comfortable, and the lateral recumbent (fetal) position opens the space between the vertebrae for access. Some clients sit on a hard surface and lean over instead. Incorrect: A full bladder works against comfort, lying flat with the legs straight closes the space, and a lumbar puncture is invasive, so a consent form is needed.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A day after a lumbar puncture, a client has a severe headache. Bed rest and analgesics, including an opioid, have not helped. Which treatment should the nurse anticipate next?",
+            "options": [
+              "A blood patch, where the client's own blood is injected into the dura",
+              "A second lumbar puncture to remove more fluid and relieve pressure",
+              "A myelogram to inject contrast into the subarachnoid space and seal it",
+              "An EMG to measure whether a nerve is being irritated by the needle site"
+            ],
+            "answer": 0,
+            "rationale": "Correct: A spinal headache comes from losing fluid from the spinal column. It's treated first with bed rest and analgesics (possibly opioids); if it persists, a blood patch injects the client's peripheral blood into the dura. IV caffeine has also been shown to help. Incorrect: Removing more fluid would worsen the cause, and a myelogram and an EMG are diagnostic tests, not treatments.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client scheduled for a lumbar puncture says, \"I know how this goes. They inject dye into my spine and take x-rays.\" How should the nurse clarify?",
+            "options": [
+              "That is right; a lumbar puncture and a myelogram are just two names for the same test.",
+              "That describes an EEG; a lumbar puncture records the brain's electrical activity.",
+              "That describes a myelogram; a lumbar puncture taps the spine to collect spinal fluid.",
+              "That describes a carotid duplex; a lumbar puncture uses ultrasound on the spine."
+            ],
+            "answer": 2,
+            "rationale": "Correct: A myelogram is an x-ray of the spinal cord after contrast is injected into the subarachnoid space; a lumbar puncture (spinal tap) taps the spinal column to obtain cerebrospinal fluid. Incorrect: They are different tests, and the EEG and carotid duplex measure electrical activity and blood velocity, not the spinal fluid.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A neuro clinic is scheduling tests. Which test-and-purpose pairings are correct? Select all that apply.",
+            "options": [
+              "Repetitive nerve stimulation for suspected Parkinson's disease",
+              "An EEG for a client with suspected seizures",
+              "An EMG for a client with suspected ALS",
+              "A PET scan to evaluate the anatomy of the spinal column and the vertebrae",
+              "A carotid duplex for a client at risk for stroke",
+              "Evoked potentials for a client with suspected multiple sclerosis"
+            ],
+            "answers": [
+              1,
+              2,
+              4,
+              5
+            ],
+            "rationale": "Correct: The EEG assesses for seizures; the EMG measures nerve innervation and is used for ALS and myasthenia gravis; the carotid duplex is for people at risk for, or who may have had, a stroke; evoked potentials help diagnose MS. Incorrect: Repetitive nerve stimulation is for myasthenia gravis, not Parkinson's. The PET evaluates physiology (metabolism), usually of the brain and heart, not anatomy.",
+            "topic": "Neuro Labs &amp; Dx",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week6-parkinsons-mg-ms",
+      "label": "Parkinson's, MG &amp; MS",
+      "week": 6,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "Client A has a hand tremor while watching TV that fades when she buttons her shirt. Client B's hand shakes more as he reaches for his cup, and he reports blurred vision and fatigue in hot weather. Which interpretation fits?",
+            "options": [
+              "A: a Parkinson's rest tremor. B: an MS intention tremor with visual changes and heat intolerance.",
+              "A: an MS intention tremor. B: a Parkinson's rest tremor with visual changes and heat intolerance.",
+              "Both are Parkinson's rest tremors, since every neurologic tremor improves with purposeful activity.",
+              "Both are MS intention tremors, since every neurologic tremor worsens when the client is at rest."
+            ],
+            "answer": 0,
+            "rationale": "Correct: The Parkinson's tremor is a pill-rolling rest tremor, most notable when not engaged in purposeful activity, and it improves with purposeful activity. MS causes intention tremors, worse with purposeful movement, along with visual changes and heat intolerance. Incorrect: The two tremor types behave in opposite ways, so neither statement about every tremor is true.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client has taken levodopa for 6 years. Lately he becomes suddenly immobile at unpredictable times, especially after his large steak dinners. Which plan addresses this?",
+            "options": [
+              "Stop the levodopa, since it no longer works, and start deep brain stimulation right away.",
+              "Shorten the time between doses, use controlled-release forms, and avoid high-protein meals.",
+              "Lengthen the time between doses so the drug builds up, and add protein to every meal.",
+              "Take the full day's levodopa at bedtime, since the on-off phenomenon happens only at night."
+            ],
+            "answer": 1,
+            "rationale": "Correct: This is the on-off phenomenon, the invariable consequence of long-term levodopa: \"on\" is mobile, \"off\" is immobile, and over time the wearing off becomes unpredictable. It is managed by reducing the interdose interval, giving controlled-release medication and avoiding high-protein meals. Incorrect: Longer intervals and more protein worsen it, and nothing says the drug should be stopped abruptly or given all at bedtime.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Parkinson's says, \"I just feel weak and uncoordinated, super tired all the time.\" His wife says everything he does has slowed way down. Which cardinal feature does this describe, and what does it mean for care?",
+            "options": [
+              "Postural instability, an early feature, so the priority is a strict bed-rest plan.",
+              "Muscle rigidity, the least disabling feature, so no change in care is needed.",
+              "Bradykinesia, the major cause of disability, so allow extra time for ADLs and responses.",
+              "Tremor, the most disabling feature, so give medication only when the shaking becomes severe."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Bradykinesia, generalized slowness of movement, is arguably the most major cause of disability in PD and the hardest symptom for patients to describe (\"weak and uncoordinated or super tired\"). Care includes extra time to respond and for ADLs. Incorrect: Postural instability comes later in the disease, the tremor is the least debilitating feature, and medications are given promptly, not only for severe shaking.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Parkinson's freezes in doorways and can't get his feet moving. Which teaching should the nurse give?",
+            "options": [
+              "Look straight down at the feet and shuffle them faster to push through the frozen spot",
+              "Hold onto the door frame and wait for the freezing to pass without trying to move",
+              "Take two steps backward, then lean forward hard to build up momentum to the front",
+              "Step over an imaginary line on the floor, lift the toes, and rock from side to side"
+            ],
+            "answer": 3,
+            "rationale": "Correct: For freezing, teach the client to consciously step over an imaginary line (or a small object such as a rice kernel), rock side to side to get momentum going, lift the toes when stepping, and take one step backward and two steps forward; remove rugs and tripping hazards. Incorrect: Shuffling faster and leaning forward hard add to the fall risk from the shuffling gait and later postural instability, and two steps back reverses the one-back, two-forward pattern.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with advanced Parkinson's has lost weight, coughs during meals and speaks very softly. Which plan best fits his nutrition needs?",
+            "options": [
+              "Three large meals of soft, low-calorie foods, with fluids limited to prevent choking",
+              "Small frequent meals of calorie-dense, nutrient-rich foods in bite-sized pieces, with more fluids",
+              "A clear liquid diet only, since thin liquids are always the easiest texture for him to swallow safely",
+              "Nothing by mouth until the hypophonia improves, since his soft voice signals aspiration"
+            ],
+            "answer": 1,
+            "rationale": "Correct: The dietitian plans calorie-dense, nutrient-rich foods, more fluids, bite-sized pieces and small frequent meals, and the speech therapist helps with dysphagia and hypophonia to prevent aspiration. Incorrect: Low-calorie food and fluid limits work against his weight loss, and the soft voice (hypophonia) is a speech problem, not a reason to stop eating.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with myasthenia gravis gets so tired chewing that her oxygen saturation drops during meals. She takes pyridostigmine. Which plan best addresses this?",
+            "options": [
+              "Give the pyridostigmine right after meals so it doesn't upset her stomach while eating",
+              "Hold the pyridostigmine on meal days, since the drug is what is causing her fatigue",
+              "Time the doses to peak at meals, and offer a semi-solid diet she can chew and swallow",
+              "Offer three large meals of regular-textured food so she has fewer meals to tire her"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Schedule medications so they peak at mealtimes, giving enough jaw muscle activation to eat, and offer a balanced diet that can be chewed and swallowed, usually semi-solid because of the dysphagia. Incorrect: After-meal dosing misses the peak, the drug treats (not causes) the weakness, and regular-textured large meals increase the chewing fatigue.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with myasthenia gravis took extra pyridostigmine doses yesterday because she felt weak. Now she has abdominal cramps, heavy secretions, worsening weakness and trouble breathing. What is the likely problem, and how would a Tensilon test respond?",
+            "options": [
+              "A myasthenic crisis from too little medication; a Tensilon test would make her better.",
+              "A myasthenic crisis from too much medication; a Tensilon test would make her worse.",
+              "A cholinergic crisis from too little medication; a Tensilon test would make her better.",
+              "A cholinergic crisis from too much medication; a Tensilon test would make her worse."
+            ],
+            "answer": 3,
+            "rationale": "Correct: A cholinergic crisis comes from too much anticholinesterase medication, with features such as flaccid paralysis, hypersecretion and abdominal cramps. A Tensilon test would make it worse, while a myasthenic crisis (not enough medication) gets better. Both can cause apprehension, dyspnea, weakness and respiratory failure, which is why her history matters.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with multiple sclerosis wants to keep her energy up. She plans to rest in bed most of the day and go back to her hot yoga class. Which teaching is best?",
+            "options": [
+              "Avoid hot yoga and very hot weather; get extra rest but keep up regular aerobic exercise.",
+              "Hot yoga is fine as long as she drinks water; bed rest most of the day prevents flares.",
+              "Avoid all exercise to save energy; heat is helpful because it relaxes spastic muscles.",
+              "Follow a special MS diet instead of exercising; rest only at night, never during the day."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Heat causes flares, so people with MS do better in cooler environments and should avoid very hot weather and hot yoga. They need extra rest to reduce fatigue and flares, but also regular aerobic exercise (swimming is excellent) for muscle tone, balance, coordination and depression. Incorrect: Bed rest most of the day is discouraged, and there is no special diet beyond a well-balanced one.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with myasthenia gravis is admitted after a crisis and will receive plasmapheresis. Her husband asks why she needs it, since it looks like dialysis. Which explanation is accurate?",
+            "options": [
+              "It filters waste from her blood, since myasthenia gravis has damaged her kidneys.",
+              "It replaces her pyridostigmine permanently, so she won't need her pills anymore.",
+              "It removes the antibodies from her plasma to lessen symptoms, often 6 exchanges in 2 weeks.",
+              "It adds extra acetylcholine to her blood, which immediately and permanently cures the muscle weakness."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Plasmapheresis is a plasma exchange (it looks like hemodialysis) that removes the antibodies from the plasma to decrease symptoms. It's a short-term treatment used until the medication takes effect, after surgery or after a myasthenic crisis, typically 6 exchanges over 2 weeks. Incorrect: It isn't for the kidneys, it doesn't replace the first-line drug (pyridostigmine), and it isn't a cure.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is being evaluated for a neurologic disorder. Which findings would support multiple sclerosis rather than Parkinson's disease? Select all that apply.",
+            "options": [
+              "A tremor that worsens when the client reaches for an object",
+              "A pill-rolling tremor that is most noticeable when the client is at rest",
+              "Spastic muscles in the legs",
+              "Eyes that move back and forth while looking straight ahead",
+              "Handwriting that shrinks across the page",
+              "Fatigue and flares in hot weather"
+            ],
+            "answers": [
+              0,
+              2,
+              3,
+              5
+            ],
+            "rationale": "Correct: MS brings intention tremors (worse with purposeful movement), spasticity rather than flaccidity, nystagmus (the eyes moving back and forth), and heat intolerance. Incorrect: A pill-rolling rest tremor and micrographia (progressively shrinking handwriting) are Parkinson's features.",
+            "topic": "Parkinson's, MG &amp; MS",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week6-als-seizures-gbs",
+      "label": "ALS, Seizures &amp; GBS",
+      "week": 6,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "Client A has had months of weakness in one hand and a twitching tongue, with no change in sensation. Client B developed weakness in both feet a week after a viral illness that is now moving up both legs, and the knee reflexes are absent. Which interpretation is correct?",
+            "options": [
+              "A: ALS, from asymmetric limb weakness and fasciculations. B: Guillain-Barré, from ascending weakness.",
+              "A: Guillain-Barré, from asymmetric limb weakness. B: ALS, from ascending weakness and absent reflexes.",
+              "A: myasthenia gravis, from tongue twitching. B: multiple sclerosis, from the weakness after a virus.",
+              "Both are ALS, since all of these neurologic disorders start in the limbs and spread upward."
+            ],
+            "answer": 0,
+            "rationale": "Correct: ALS most often presents with asymmetric limb weakness (often a weak hand) and fasciculations (twitching, as in the face or tongue). Guillain-Barré is usually ascending, fairly symmetric weakness with absent or depressed DTRs, very often after a viral infection. Incorrect: Swapping them misreads the patterns, and twitching and post-viral ascending weakness don't point to MG or MS.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with advanced ALS can barely move. His daughter says, \"He can't move anymore, so he probably doesn't feel pain or understand us.\" How should the nurse respond?",
+            "options": [
+              "She's right; ALS takes away sensation and thinking, so pain checks can be stopped.",
+              "ALS leaves him cognitively intact with sensation, so he still feels pain and understands.",
+              "ALS removes sensation but leaves thinking intact, so talk to him but skip the pain checks.",
+              "ALS affects thinking first, so he can feel pain but can't follow what is being said."
+            ],
+            "answer": 1,
+            "rationale": "Correct: ALS is devastating because the patient remains cognitively intact while physically wasting away, and they still have sensation, so pain assessment continues and communication is supported (speech therapy). Incorrect: Neither sensation nor cognition is lost in the way the distractors describe.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with ALS now coughs and chokes with every meal. His wife asks whether riluzole will cure him. Which plan and response fit?",
+            "options": [
+              "Keep feeding him by mouth with thin liquids; riluzole will cure the disease within a year.",
+              "Encourage larger meals to keep up his strength; riluzole reverses the swallowing problem.",
+              "Keep him NPO now that aspiration is a risk; riluzole extends survival but is not a cure.",
+              "Stop all PT to save his energy for eating; riluzole is one of many approved ALS drugs."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Maintain NPO once the risk for aspiration starts. Riluzole is the only FDA-approved drug for ALS; it doesn't cure, but it extends survival time. Incorrect: ALS is presently incurable, and PT is part of the plan (moderate endurance exercise to reduce spasticity).",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "During a client's tonic-clonic seizure, the nurse finds assistive personnel trying to put a tongue blade in the mouth and holding the client's arms down. Which action should the nurse take?",
+            "options": [
+              "Help hold the arms down more firmly so the tongue blade can go in and protect the client's tongue",
+              "Leave to get the provider while the assistive personnel keeps holding the client down",
+              "Let the assistive personnel continue, since restraint prevents injury during a seizure",
+              "Stop both, stay with the client, keep suction ready, and turn the head to the side if possible"
+            ],
+            "answer": 3,
+            "rationale": "Correct: During a seizure: ensure a patent airway with suction handy, don't force anything into the mouth, don't restrain unless something places the client in danger, stay with the client until it ends, and turn the head to the side if possible without forcing it. Incorrect: Forcing a tongue blade and restraining are exactly what's avoided, and the nurse stays with the client.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's tonic-clonic seizure has now lasted 6 minutes. What is the priority, and which medication should the nurse anticipate?",
+            "options": [
+              "Wait until it reaches 10 minutes before acting; give a dose of phenytoin by mouth.",
+              "Protect the airway and call rapid response; expect a benzodiazepine such as lorazepam.",
+              "Draw a phenytoin level first; expect the drug dose to be changed once the results come back.",
+              "Restrain the arms and legs; expect an IV push of a vagal nerve stimulator setting."
+            ],
+            "answer": 1,
+            "rationale": "Correct: A seizure lasting more than 5 minutes (or repeated seizures over 30 minutes) is status epilepticus, a medical emergency. The airway is the number one concern, the rapid response team is called, and benzodiazepines (lorazepam or diazepam) are the drugs of choice. Seizures lasting more than 10 minutes uninterrupted can cause death, so the activity must be interrupted. Incorrect: Waiting, drawing levels first and restraint all delay or harm care.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "After a tonic-clonic seizure, a client is sleeping deeply and is hard to arouse. His wife wants to shake him awake to make sure he's okay. What should the nurse do?",
+            "options": [
+              "Shake him awake every 5 minutes, since being this hard to arouse means he is in status epilepticus",
+              "Sit him upright and give fluids by mouth to help him wake up and clear his head",
+              "Let him rest while keeping him safe, monitoring the GCS and pupils until he is fully awake",
+              "Call a rapid response, since being hard to arouse after a seizure is never expected"
+            ],
+            "answer": 2,
+            "rationale": "Correct: The postictal phase is the recovery period: the client may be nearly unarousable and remember nothing. The nurse keeps him safe and lets him rest until fully awake, monitoring the Glasgow Coma Scale and pupil size and reactivity and being reassuring. Incorrect: Shaking him awake isn't wanted, oral fluids are unsafe while he is drowsy, and deep postictal sleep is expected, not status epilepticus.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "An adult client suddenly stares, then starts walking down the hall taking off his gown. He doesn't respond when the nurse speaks to him. After about 2 minutes he is confused and very tired. Which type of seizure fits best?",
+            "options": [
+              "An absence seizure, which is most common in older adults",
+              "A tonic-clonic seizure, since he lost consciousness",
+              "A focal seizure with retained awareness, since he kept walking",
+              "A focal onset seizure, but without retained awareness"
+            ],
+            "answer": 3,
+            "rationale": "Correct: In a focal onset seizure without retained awareness, the eyes are open but awareness is lost or changed; movements may look purposeful but you can't interact with the person (walking into traffic, taking off clothes). It lasts 1 to 2 minutes, and afterward they are confused and very fatigued. Incorrect: Absence seizures rarely occur beyond adolescence, tonic-clonic seizures involve stiffening and jerking, and retained awareness means no loss of consciousness.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who has taken phenytoin for years has swollen, overgrown gums and says she's going to stop the drug today. Which response is best?",
+            "options": [
+              "Gum overgrowth is a known side effect; never stop abruptly, and levels need monitoring.",
+              "Gum overgrowth means toxicity, so stopping the phenytoin today is the safest option.",
+              "Gum overgrowth is unrelated to the drug, so she should keep taking it and see a dentist.",
+              "Gum overgrowth means the drug is working, so she can stop once the gums go back to normal."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Gingival hyperplasia is a known side effect of phenytoin (Dilantin). Phenytoin is an older drug with a narrow therapeutic index, so drug levels are drawn, and antiepileptics are never stopped abruptly, since that can cause a seizure. Incorrect: Stopping today risks a seizure, and the gum change is linked to the drug, not a sign that it is working.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Guillain-Barré syndrome has weakness that has climbed to the chest. He has back pain, a heart rate swinging between 58 and 124, and a weak gag reflex. Which assessment is the priority?",
+            "options": [
+              "The back pain, since GBS pain is neuropathic and must be treated before anything else",
+              "The urine output, since retention from dysautonomia is the most dangerous problem",
+              "The airway and breathing, since 15 to 30% of clients with GBS end up on a ventilator",
+              "The heart rate, since tachycardia in GBS means a myasthenic crisis is developing"
+            ],
+            "answer": 2,
+            "rationale": "Correct: GBS can deteriorate quickly, and 15 to 30% end up on mechanical ventilation, so vigilance focuses on the gag and corneal reflexes and breathing. Labile vital signs (dysautonomia) mean frequent vital signs and possibly the ICU. Incorrect: Neuropathic pain and voiding are monitored and treated, but airway and breathing come first, and a myasthenic crisis belongs to MG, not GBS.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client was diagnosed with Guillain-Barré syndrome 10 days after a viral illness. Which nursing actions and teaching are appropriate? Select all that apply.",
+            "options": [
+              "Check the gag and corneal reflexes regularly",
+              "Take frequent vital signs because of autonomic changes",
+              "Explain that plasmapheresis is best delayed until 6 weeks after onset",
+              "Explain that a spinal tap on the first day of symptoms confirms the diagnosis",
+              "Monitor that the client is voiding",
+              "Explain that IVIG given over 5 days works as well as plasmapheresis"
+            ],
+            "answers": [
+              0,
+              1,
+              4,
+              5
+            ],
+            "rationale": "Correct: Vigilance includes the gag and corneal reflexes and frequent vital signs (dysautonomia), monitoring voiding (urinary retention), and IVIG over 5 days, which has equal efficacy to plasmapheresis. Incorrect: Plasmapheresis or IVIG must be given within 4 weeks of onset (time is of the essence), and the CSF shows changes only after a week of onset.",
+            "topic": "ALS, Seizures &amp; GBS",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week6-stroke-neuro-ir",
+      "label": "Stroke &amp; Neuro IR",
+      "week": 6,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "Client A, who has atrial fibrillation, suddenly cannot move her right arm while eating lunch. Client B, who has diabetes and coronary artery disease, noticed his speech slowly worsening over several hours. Which stroke types fit?",
+            "options": [
+              "A: embolic, from a clot that traveled from the heart. B: thrombotic, from atherosclerosis.",
+              "A: thrombotic, from atherosclerosis. B: embolic, from a clot that traveled from the heart.",
+              "A: hemorrhagic, from atrial fibrillation. B: hemorrhagic, from his high blood sugars.",
+              "Both are TIAs, since neither had symptoms that lasted longer than one full day."
+            ],
+            "answer": 0,
+            "rationale": "Correct: An embolic stroke usually comes from the heart (atrial fibrillation, valve disease, endocarditis), with sudden, rapid deficits. A thrombotic stroke, the most common, is linked to atherosclerosis (CAD, PVD, diabetes) and evolves over minutes to hours. Incorrect: High blood pressure is the most common cause of hemorrhagic stroke, and TIA symptoms usually last less than an hour.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's right-sided weakness and slurred speech resolved after 40 minutes. He wants to go home, saying, \"It was nothing, it went away.\" Which response is best?",
+            "options": [
+              "He is right; symptoms that resolve mean no stroke risk, so no follow-up is needed.",
+              "This was a TIA, which is a warning; about one third of people go on to have a stroke.",
+              "This was a completed stroke, so tPA will be started even though his symptoms are gone.",
+              "This was a TIA, which always leads to a stroke within a day, so he must stay a month."
+            ],
+            "answer": 1,
+            "rationale": "Correct: A TIA is to a stroke as angina is to an MI: transient ischemia with no tissue death, usually lasting less than an hour, and a warning. Its outcome can't be predicted: one third never have another, one third have more TIAs and one third progress to stroke. Antiplatelet drugs (usually aspirin 81 mg) are used after a TIA. Incorrect: Resolution doesn't mean no risk, and progression isn't certain.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client arrives 90 minutes after sudden weakness on one side, and a stroke is suspected. The CT shows blood in the brain. What should the nurse expect regarding tPA?",
+            "options": [
+              "Give tPA right away, since the client is well within the 3-hour window",
+              "Give tPA only if the client's NIH Stroke Scale score is above 20",
+              "Hold tPA, since blood on the CT rules it out, and prepare for hemorrhagic stroke care",
+              "Hold tPA for 3 hours and repeat the CT, then give it as long as the bleeding has stopped"
+            ],
+            "answer": 2,
+            "rationale": "Correct: tPA is a clot-busting drug for ischemic stroke; you can't see a hemorrhage on the CT and give tPA. Hemorrhagic stroke care focuses on ABCs and unstable intracranial pressure, with options such as evacuating the hematoma or clipping or coiling an aneurysm. Incorrect: Being within the 3- to 4.5-hour window doesn't override a bleed, and the NIH score and a repeat CT don't make tPA safe here.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "After a stroke, Client A speaks in full, fluent sentences but doesn't follow any of the nurse's instructions. Client B clearly understands but struggles, and the words come out wrong. Which describes them?",
+            "options": [
+              "A: expressive aphasia. B: receptive aphasia.",
+              "A: global aphasia. B: dysarthria from weak speech muscles.",
+              "A: dysarthria. B: dysphagia with a G, a speech disorder.",
+              "A: receptive aphasia. B: expressive aphasia."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Receptive aphasia means the client can't understand what's being said even though they can speak; expressive aphasia is trouble producing language, so the words come out wrong. Incorrect: Global aphasia is a total inability to communicate, dysarthria is garbled, \"marbles in the mouth\" speech, and dysphagia with a G is a swallowing problem.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who had a stroke eats only the right half of his tray and doesn't respond when visitors stand on his left. Which intervention is most appropriate?",
+            "options": [
+              "Stand on his left so he learns to notice that side, since it strengthens the vision",
+              "Approach him from his right, the side he can see, so that he knows you are there",
+              "Remove the left half of the tray, since he has no appetite for that side of the food",
+              "Speak louder from the left, since stroke patients usually have a hearing loss"
+            ],
+            "answer": 1,
+            "rationale": "Correct: This is homonymous hemianopsia, the loss of half of the visual field; these clients don't acknowledge the side they can't see (eating only one side of the plate), so the nurse approaches on the side they can see. Incorrect: Standing on the blind side or raising your voice doesn't help (stroke patients usually aren't hard of hearing), and the problem is vision, not appetite.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is observing assistive personnel caring for a client with a new left-sided stroke. Which action needs correction?",
+            "options": [
+              "Placing a rolled towel along the left hip as a trochanter roll",
+              "Putting a rolled washcloth hand cone in the client's left hand",
+              "Pulling the client up in bed by the weak left arm and shoulder",
+              "Putting high-top tennis shoes on the client to prevent foot drop"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Avoid pulling a stroke patient by the arm because of the risk of shoulder displacement. Incorrect: A trochanter roll prevents external rotation of the hip, a hand cone prevents hand contractures, and foot boards or high-top tennis shoes prevent foot drop.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client admitted 2 hours ago with an ischemic stroke is alert and asks for coffee and her morning pills. What should the nurse do?",
+            "options": [
+              "Give the pills in applesauce, since soft food is safe for every stroke patient",
+              "Give thin liquids only, since she is alert enough to swallow them safely",
+              "Give the coffee if her speech is clear, since that shows a working swallow",
+              "Keep her NPO until a speech therapist has completed a swallowing evaluation"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Swallowing problems are very common after a stroke, so the client is kept NPO until a speech therapist performs a swallowing evaluation; once approved, food should be easy to swallow, with texture, temperature and flavor that stimulate the swallow reflex. Incorrect: Being alert, having clear speech or using soft food doesn't replace the swallowing evaluation.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client suddenly reports \"the worst headache of my life,\" with vomiting, a stiff and painful neck and growing lethargy. What does the nurse suspect, and what comes first?",
+            "options": [
+              "A subarachnoid hemorrhage, often from an aneurysm; airway and breathing, then a CT",
+              "A thrombotic stroke from atherosclerosis; tPA as soon as possible, even before the CT",
+              "A transient ischemic attack; aspirin 81 mg and discharge home with follow-up",
+              "A spinal headache from dehydration; bed rest, analgesics and a blood patch"
+            ],
+            "answer": 0,
+            "rationale": "Correct: The classic thunderclap, worst headache of life with nausea, vomiting, neck pain and rigidity and lethargy is a subarachnoid hemorrhage, which when non-traumatic is most commonly from an aneurysm; 30% die. The first steps are airway, breathing and circulation, then a CT. Incorrect: tPA is never given for a bleed, and this is neither a TIA nor a spinal headache.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two hours after a mechanical thrombectomy through the femoral artery, a client's NIH Stroke Scale score rises from 4 to 9. The groin site is dry. What should the nurse do?",
+            "options": [
+              "Document it and recheck at the next scheduled time, since the groin site looks fine",
+              "Report it to the provider now, since a rising score signals a worsening neuro exam",
+              "Reassure the family, since scores always go up right after a thrombectomy procedure",
+              "Lower the head of the bed and give fluids, then report only if the score passes 20"
+            ],
+            "answer": 1,
+            "rationale": "Correct: For stroke and neurointerventional patients the neuro exam is key, and nurses are often the first to catch problems through routine use of the NIH Stroke Scale (0 is no stroke; higher scores are more severe). A rising score is reported right away, along with monitoring the access site. Incorrect: A dry groin doesn't make a worsening neuro exam safe to wait on, and a rising score isn't expected.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is in the acute phase after a stroke with right-sided weakness and expressive aphasia. Which nursing actions are appropriate? Select all that apply.",
+            "options": [
+              "Speak slowly and calmly using simple words",
+              "Raise your voice so the client can understand you better",
+              "Limit time lying on the affected side to 30 minutes",
+              "Watch for neurologic worsening in the first 24 to 48 hours",
+              "Insert an indwelling urinary catheter for the poor bladder control",
+              "Plan for a bladder retraining program"
+            ],
+            "answers": [
+              0,
+              2,
+              3,
+              5
+            ],
+            "rationale": "Correct: Communication support means speaking slowly, in a calm, low voice, with simple words; clients aren't placed on the affected side for more than 30 minutes at a time; many get worse in the first 24 to 48 hours; and poor bladder control is handled with a later bladder retraining program. Incorrect: Don't raise your voice (these clients usually aren't hard of hearing), and catheters are avoided if possible.",
+            "topic": "Stroke &amp; Neuro IR",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
       "id": "medsurg1-week1-respiratory",
       "label": "Med Surg I Wk 1: Respiratory",
       "sets": {
@@ -4222,6 +4814,10 @@ window.QUIZ_BANK = {
     "Fractures, Devices &amp; Amputations",
     "Joint Surgery, Osteomyelitis, Discs &amp; Osteoporosis",
     "OA, RA, Gout &amp; SLE",
+    "Neuro Labs &amp; Dx",
+    "Parkinson's, MG &amp; MS",
+    "ALS, Seizures &amp; GBS",
+    "Stroke &amp; Neuro IR",
     "Med Surg I Wk 1: Respiratory",
     "Med Surg I Wk 2: Hematology",
     "Med Surg I Wk 3: Periop, Fluids &amp; Electrolytes",
