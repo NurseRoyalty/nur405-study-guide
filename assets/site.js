@@ -46,70 +46,62 @@ const SITE = {
      at the bottom of this object for both shapes.                       */
   groups: [
     {
-      label: "Week 1",
-      items: [
-        { id: "week1-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week1-comprehensive-study-guide.html" },
-        { id: "week1-cv-labs-diagnostics", num: "2", title: "CV Labs &amp; Diagnostics", file: "week1-cv-labs-diagnostics.html" },
-        { id: "week1-cad-acs", num: "3", title: "CAD &amp; Acute Coronary Syndrome", file: "week1-cad-acs.html" },
-        { id: "week1-pericarditis", num: "4", title: "Pericarditis", file: "week1-pericarditis.html" },
-        { id: "week1-endocarditis", num: "5", title: "Infective Endocarditis", file: "week1-endocarditis.html" },
-        { id: "week1-valvular-heart-disease", num: "6", title: "Valvular Heart Disease", file: "week1-valvular-heart-disease.html" },
-        { id: "week1-big-picture-overview", num: "7", title: "Big Picture Overview", file: "week1-big-picture-overview.html" },
+      label: "Weeks 1–3",
+      sections: [
+        { heading: "Week 1", items: [
+            { id: "week1-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week1-comprehensive-study-guide.html" },
+            { id: "week1-cv-labs-diagnostics", num: "2", title: "CV Labs &amp; Diagnostics", file: "week1-cv-labs-diagnostics.html" },
+            { id: "week1-cad-acs", num: "3", title: "CAD &amp; Acute Coronary Syndrome", file: "week1-cad-acs.html" },
+            { id: "week1-pericarditis", num: "4", title: "Pericarditis", file: "week1-pericarditis.html" },
+            { id: "week1-endocarditis", num: "5", title: "Infective Endocarditis", file: "week1-endocarditis.html" },
+            { id: "week1-valvular-heart-disease", num: "6", title: "Valvular Heart Disease", file: "week1-valvular-heart-disease.html" },
+            { id: "week1-big-picture-overview", num: "7", title: "Big Picture Overview", file: "week1-big-picture-overview.html" },
+          ] },
+        { heading: "Week 2", items: [
+            { id: "week2-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week2-comprehensive-study-guide.html" },
+            { id: "week2-eye-disorders", num: "2", title: "Eye Disorders", file: "week2-eye-disorders.html" },
+            { id: "week2-prostate", num: "3", title: "Prostate &amp; BPH", file: "week2-prostate.html" },
+            { id: "week2-stds", num: "4", title: "STDs", file: "week2-stds.html" },
+            { id: "week2-big-picture-overview", num: "5", title: "Big Picture Overview", file: "week2-big-picture-overview.html" },
+          ] },
+        { heading: "Week 3", items: [
+            { id: "week3-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week3-comprehensive-study-guide.html" },
+            { id: "week3-intro-sinus-dysrhythmias", num: "2", title: "Intro &amp; Sinus Dysrhythmias", file: "week3-intro-sinus-dysrhythmias.html" },
+            { id: "week3-atrial-dysrhythmias", num: "3", title: "PAC, A-Fib, A-Flutter &amp; PSVT", file: "week3-atrial-dysrhythmias.html" },
+            { id: "week3-ventricular-dysrhythmias", num: "4", title: "PVC, V-Tach &amp; V-Fib", file: "week3-ventricular-dysrhythmias.html" },
+            { id: "week3-hf-pad-aaa-raynauds", num: "5", title: "HF, PAD, AAA &amp; Raynaud's", file: "week3-hf-pad-aaa-raynauds.html" },
+            { id: "week3-cvi-vte", num: "6", title: "CVI &amp; VTE", file: "week3-cvi-vte.html" },
+            { id: "week3-big-picture-overview", num: "7", title: "Big Picture Overview", file: "week3-big-picture-overview.html" },
+          ] },
       ]
     },
     {
-      label: "Week 2",
-      items: [
-        { id: "week2-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week2-comprehensive-study-guide.html" },
-        { id: "week2-eye-disorders", num: "2", title: "Eye Disorders", file: "week2-eye-disorders.html" },
-        { id: "week2-prostate", num: "3", title: "Prostate &amp; BPH", file: "week2-prostate.html" },
-        { id: "week2-stds", num: "4", title: "STDs", file: "week2-stds.html" },
-        { id: "week2-big-picture-overview", num: "5", title: "Big Picture Overview", file: "week2-big-picture-overview.html" },
-      ]
-    },
-    {
-      label: "Week 3",
-      items: [
-        { id: "week3-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week3-comprehensive-study-guide.html" },
-        { id: "week3-intro-sinus-dysrhythmias", num: "2", title: "Intro &amp; Sinus Dysrhythmias", file: "week3-intro-sinus-dysrhythmias.html" },
-        { id: "week3-atrial-dysrhythmias", num: "3", title: "PAC, A-Fib, A-Flutter &amp; PSVT", file: "week3-atrial-dysrhythmias.html" },
-        { id: "week3-ventricular-dysrhythmias", num: "4", title: "PVC, V-Tach &amp; V-Fib", file: "week3-ventricular-dysrhythmias.html" },
-        { id: "week3-hf-pad-aaa-raynauds", num: "5", title: "HF, PAD, AAA &amp; Raynaud's", file: "week3-hf-pad-aaa-raynauds.html" },
-        { id: "week3-cvi-vte", num: "6", title: "CVI &amp; VTE", file: "week3-cvi-vte.html" },
-        { id: "week3-big-picture-overview", num: "7", title: "Big Picture Overview", file: "week3-big-picture-overview.html" },
-      ]
-    },
-    {
-      label: "Week 4",
-      items: [
-        { id: "week4-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week4-comprehensive-study-guide.html" },
-        { id: "week4-endocrine-labs-dx", num: "2", title: "Endocrine Labs &amp; Dx", file: "week4-endocrine-labs-dx.html" },
-        { id: "week4-adh-disorders", num: "3", title: "ADH Disorders", file: "week4-adh-disorders.html" },
-        { id: "week4-adrenal-disorders", num: "4", title: "Adrenal Disorders", file: "week4-adrenal-disorders.html" },
-        { id: "week4-thyroid-disorders", num: "5", title: "Thyroid Disorders", file: "week4-thyroid-disorders.html" },
-        { id: "week4-diabetes", num: "6", title: "DM: Patho, Pharm &amp; Nursing Care", file: "week4-diabetes.html" },
-        { id: "week4-big-picture-overview", num: "7", title: "Big Picture Overview", file: "week4-big-picture-overview.html" },
-      ]
-    },
-    {
-      label: "Week 5",
-      items: [
-        { id: "week5-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week5-comprehensive-study-guide.html" },
-        { id: "week5-fractures-devices-amputations", num: "2", title: "Fractures, Immobilization Devices &amp; Amputations", file: "week5-fractures-devices-amputations.html" },
-        { id: "week5-joint-surgeries-osteo-discs", num: "3", title: "Joint Surgeries, Osteomyelitis, Herniated Discs &amp; Osteoporosis", file: "week5-joint-surgeries-osteo-discs.html" },
-        { id: "week5-rheumatic-disorders", num: "4", title: "OA, RA, Gout &amp; SLE", file: "week5-rheumatic-disorders.html" },
-        { id: "week5-big-picture-overview", num: "5", title: "Big Picture Overview", file: "week5-big-picture-overview.html" },
-      ]
-    },
-    {
-      label: "Week 6",
-      items: [
-        { id: "week6-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week6-comprehensive-study-guide.html" },
-        { id: "week6-neuro-labs-dx", num: "2", title: "Neuro Labs &amp; Dx", file: "week6-neuro-labs-dx.html" },
-        { id: "week6-parkinsons-mg-ms", num: "3", title: "Parkinson's, Myasthenia Gravis &amp; MS", file: "week6-parkinsons-mg-ms.html" },
-        { id: "week6-als-seizures-gbs", num: "4", title: "ALS, Seizure Disorders &amp; Guillain-Barré", file: "week6-als-seizures-gbs.html" },
-        { id: "week6-stroke-neuro-ir", num: "5", title: "Stroke (CVA) &amp; Neurointerventional Radiology", file: "week6-stroke-neuro-ir.html" },
-        { id: "week6-big-picture-overview", num: "6", title: "Big Picture Overview", file: "week6-big-picture-overview.html" },
+      label: "Weeks 4–6",
+      sections: [
+        { heading: "Week 4", items: [
+            { id: "week4-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week4-comprehensive-study-guide.html" },
+            { id: "week4-endocrine-labs-dx", num: "2", title: "Endocrine Labs &amp; Dx", file: "week4-endocrine-labs-dx.html" },
+            { id: "week4-adh-disorders", num: "3", title: "ADH Disorders", file: "week4-adh-disorders.html" },
+            { id: "week4-adrenal-disorders", num: "4", title: "Adrenal Disorders", file: "week4-adrenal-disorders.html" },
+            { id: "week4-thyroid-disorders", num: "5", title: "Thyroid Disorders", file: "week4-thyroid-disorders.html" },
+            { id: "week4-diabetes", num: "6", title: "DM: Patho, Pharm &amp; Nursing Care", file: "week4-diabetes.html" },
+            { id: "week4-big-picture-overview", num: "7", title: "Big Picture Overview", file: "week4-big-picture-overview.html" },
+          ] },
+        { heading: "Week 5", items: [
+            { id: "week5-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week5-comprehensive-study-guide.html" },
+            { id: "week5-fractures-devices-amputations", num: "2", title: "Fractures, Immobilization Devices &amp; Amputations", file: "week5-fractures-devices-amputations.html" },
+            { id: "week5-joint-surgeries-osteo-discs", num: "3", title: "Joint Surgeries, Osteomyelitis, Herniated Discs &amp; Osteoporosis", file: "week5-joint-surgeries-osteo-discs.html" },
+            { id: "week5-rheumatic-disorders", num: "4", title: "OA, RA, Gout &amp; SLE", file: "week5-rheumatic-disorders.html" },
+            { id: "week5-big-picture-overview", num: "5", title: "Big Picture Overview", file: "week5-big-picture-overview.html" },
+          ] },
+        { heading: "Week 6", items: [
+            { id: "week6-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "week6-comprehensive-study-guide.html" },
+            { id: "week6-neuro-labs-dx", num: "2", title: "Neuro Labs &amp; Dx", file: "week6-neuro-labs-dx.html" },
+            { id: "week6-parkinsons-mg-ms", num: "3", title: "Parkinson's, Myasthenia Gravis &amp; MS", file: "week6-parkinsons-mg-ms.html" },
+            { id: "week6-als-seizures-gbs", num: "4", title: "ALS, Seizure Disorders &amp; Guillain-Barré", file: "week6-als-seizures-gbs.html" },
+            { id: "week6-stroke-neuro-ir", num: "5", title: "Stroke (CVA) &amp; Neurointerventional Radiology", file: "week6-stroke-neuro-ir.html" },
+            { id: "week6-big-picture-overview", num: "6", title: "Big Picture Overview", file: "week6-big-picture-overview.html" },
+          ] },
       ]
     },
     {
@@ -127,11 +119,26 @@ const SITE = {
     },
     {
       label: "Exam Prep",
-      items: [
-        { id: "must-know",       num: "1", title: "Must Know Quick Reference", file: "must-know.html" },
-        { id: "quiz-builder",    num: "2", title: "Build Your Own Exam",       file: "quiz-builder.html" },
-        { id: "torture-chamber", num: "3", title: "The Torture Chamber",       file: "torture-chamber.html" },
-        { id: "lecture-review-template", num: "4", title: "Lecture Review Template", file: "lecture-review-template.html" },
+      sections: [
+        { heading: "Study Tools", items: [
+            { id: "must-know",       num: "1", title: "Must Know Quick Reference", file: "must-know.html" },
+            { id: "quiz-builder",    num: "2", title: "Build Your Own Exam",       file: "quiz-builder.html" },
+            { id: "torture-chamber", num: "3", title: "The Torture Chamber",       file: "torture-chamber.html" },
+            { id: "lecture-review-template", num: "4", title: "Lecture Review Template", file: "lecture-review-template.html" },
+          ] },
+        /* The same pages as the "Final Exam Review" group below, listed here
+           too at the user's request. alias: true keeps them out of the
+           prev/next order so each page appears there only once. */
+        { heading: "Final Exam Review", items: [
+            { id: "final-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "final-comprehensive-study-guide.html", alias: true },
+            { id: "final-week1-test-points", num: "2", title: "Week 1 Major Test Points", file: "final-week1-test-points.html", alias: true },
+            { id: "final-week2-test-points", num: "3", title: "Week 2 Major Test Points", file: "final-week2-test-points.html", alias: true },
+            { id: "final-week3-test-points", num: "4", title: "Week 3 Major Test Points", file: "final-week3-test-points.html", alias: true },
+            { id: "final-week4-test-points", num: "5", title: "Week 4 Major Test Points", file: "final-week4-test-points.html", alias: true },
+            { id: "final-week5-test-points", num: "6", title: "Week 5 Major Test Points", file: "final-week5-test-points.html", alias: true },
+            { id: "final-week6-test-points", num: "7", title: "Week 6 Major Test Points", file: "final-week6-test-points.html", alias: true },
+            { id: "final-big-picture-overview", num: "8", title: "Big Picture Overview", file: "final-big-picture-overview.html", alias: true },
+          ] },
       ]
     },
     {
@@ -140,6 +147,19 @@ const SITE = {
         { id: "exam1-jeopardy", num: "1", title: "Exam 1 Jeopardy — 3 Player Game", file: "exam1-jeopardy.html" },
         { id: "exam2-jeopardy", num: "2", title: "Exam 2 Jeopardy — 3 Player Game", file: "exam2-jeopardy.html" },
         { id: "exam3-jeopardy", num: "3", title: "Exam 3 Jeopardy — 3 Player Game", file: "exam3-jeopardy.html" },
+      ]
+    },
+    {
+      label: "Final Exam Review",
+      items: [
+        { id: "final-comprehensive-study-guide", num: "1", title: "Comprehensive Study Guide", file: "final-comprehensive-study-guide.html" },
+        { id: "final-week1-test-points", num: "2", title: "Week 1 Major Test Points", file: "final-week1-test-points.html" },
+        { id: "final-week2-test-points", num: "3", title: "Week 2 Major Test Points", file: "final-week2-test-points.html" },
+        { id: "final-week3-test-points", num: "4", title: "Week 3 Major Test Points", file: "final-week3-test-points.html" },
+        { id: "final-week4-test-points", num: "5", title: "Week 4 Major Test Points", file: "final-week4-test-points.html" },
+        { id: "final-week5-test-points", num: "6", title: "Week 5 Major Test Points", file: "final-week5-test-points.html" },
+        { id: "final-week6-test-points", num: "7", title: "Week 6 Major Test Points", file: "final-week6-test-points.html" },
+        { id: "final-big-picture-overview", num: "8", title: "Big Picture Overview", file: "final-big-picture-overview.html" },
       ]
     },
     /* ---- ADD WHEN YOU BUILD THEM: the Jeopardy group ----
@@ -218,7 +238,7 @@ const SITE_VER = (function () {
   // the merged "Weeks 1–3" / "Weeks 4–6" dropdowns) — handle both shapes.
   const groupItems = g => g.sections ? g.sections.flatMap(s => s.items) : g.items;
   const flat = [];
-  SITE.groups.forEach(g => groupItems(g).forEach(it => flat.push(it)));
+  SITE.groups.forEach(g => groupItems(g).forEach(it => { if (!it.alias) flat.push(it); }));
   const current = flat.find(it => it.file === file) || null;
 
   // ---- Build the top nav ---------------------------------------
